@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Under construction
+A new version of my personal page in under construction, please find the current version at [shocheen.com](http://shocheen.com)
