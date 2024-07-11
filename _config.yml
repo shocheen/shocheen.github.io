@@ -21,7 +21,7 @@ repository               : "shocheen/shocheen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sachin.jpg"
+  avatar           : "/images/sachin.jpg"
   name             : "Sachin Kumar"
   pronouns         : "he/him"  
   bio              : "Assistant Professor"
