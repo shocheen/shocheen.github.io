@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sachin Kumar"
+title                    : "Sachin Kumar's Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Assistant Professor at the Ohio State University"

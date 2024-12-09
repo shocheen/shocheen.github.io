@@ -1,18 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "CSE 5525: Foundations of Speech and Language Processing"
 collection: teaching
 type: "graduate course"
-permalink: /teaching/2025-spring-teaching
+permalink: /cse-5525-spring-2025
 venue: "The Ohio State University, Computer Science and Engineering"
-date: 2025-01-08
+date: 2024-08-21
 location: "Columbus, OH"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

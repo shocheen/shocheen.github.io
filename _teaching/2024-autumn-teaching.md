@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "CSE 5539: Advanced Topics in NLP (Seminar)"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/2024-autumn-teaching
@@ -8,11 +8,4 @@ date: 2024-08-21
 location: "Columbus, OH"
 ---
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<!-- Course Website: [CSE 5539 Autumn 2024](https://shocheen.github.io/advanced-nlp-fall-2024/) -->
