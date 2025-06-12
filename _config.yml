@@ -27,51 +27,51 @@ author:
   bio              : "Assistant Professor"
   location         : "Columbus, OH"
   employer         : "The Ohio State University"
-  uri              : # URL
+  uri              : https://shocheen.com
   email            : "kumar.1145@osu.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  # arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=qO38fRIAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : # URL
-  semantic         : # URL
-  pubmed           : # URL 
-  researchgate     : # URL
+  # impactstory      :
+  # orcid            :
+  # semantic         :
+  # pubmed           :
+  # researchgate     :
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
   github           : "sachin19"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  # kaggle           :
+  # stackoverflow    :
 
   # Social media
-  bluesky          : shocheen # Username 
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
+  bluesky          : shocheen
+  # facebook         :
+  # flickr           :
+  # foursquare       :
+  # goodreads        :
+  # google_plus      :
+  # keybase          :
+  # instagram        :
+  # lastfm           :
   linkedin         : schn19 # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
+  # mastodon         :
+  # medium           :
+  # pinterest        :
+  # soundcloud       :
+  # steam            :
+  # telegram         :
+  # tumblr           :
   twitter          : "shocheen"
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
+  # vine             :
+  # weibo            :
+  # wikipedia        :
+  # xing             :
+  # youtube          :
+  # zhihu            :
 
 
 # Site Settings
