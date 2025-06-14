@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: archive
 title: "My Group"
 permalink: /group/
+author_profile: true
 ---
 
 <style>
