@@ -1,7 +1,7 @@
 #main links links
 main:
-  # - title: "My Lab"
-  #   url: /lab/   
+  - title: "My Group"
+    url: /group/   
 
   # - title: "Publications"
   #   url: /publications/ 

@@ -27,7 +27,6 @@ author:
   bio              : "Assistant Professor"
   location         : "Columbus, OH"
   employer         : "The Ohio State University"
-  uri              : https://shocheen.com
   email            : "kumar.1145@osu.edu" 
 
   # Academic websites
@@ -236,6 +235,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _group
+  - scope:
+      path: ""
+      type: group
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""

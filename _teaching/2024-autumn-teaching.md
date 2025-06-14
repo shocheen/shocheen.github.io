@@ -1,7 +1,7 @@
 ---
 title: "CSE 5539: Advanced Topics in NLP (Seminar)"
 collection: teaching
-type: "graduate course"
+type: "Autumn 2024"
 permalink: /teaching/2024-autumn-teaching
 venue: "The Ohio State University, Computer Science and Engineering"
 date: 2024-08-21
