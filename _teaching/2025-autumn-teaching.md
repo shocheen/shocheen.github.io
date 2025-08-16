@@ -1,9 +1,9 @@
 ---
 title: "CSE 5525: Foundations of Speech and Language Processing"
 collection: teaching
-type: "Spring 2025"
+type: "Autumn 2025"
 permalink: /cse-5525-autumn-2025
 venue: "The Ohio State University, Computer Science and Engineering"
-date: 2024-08-21
+date: 2025-08-16
 location: "Columbus, OH"
 ---
