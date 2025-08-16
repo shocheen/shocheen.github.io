@@ -45,6 +45,13 @@ author_profile: true
   </div>
 </div>
 
+<div class="group-member">
+  <img src="/files/images/group/zishuo.jpg" alt="Zishuo Zheng">
+  <div>
+    <strong><a href="https://zishuo.example.com" target="_blank">Zishuo Zheng</a></strong><br>
+  </div>
+</div>
+
 </div>
 
 ---

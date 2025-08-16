@@ -2,15 +2,15 @@
 main:
   - title: "My Group"
     url: /group/   
-
-  # - title: "Publications"
-  #   url: /publications/ 
+    
+  - title: "Prospective Students"
+    url: /prospective-students/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  # - title: "Prospective Students"
-  #   url: /prospective-students/
+
+      # - title: "Publications"
+  #   url: /publications/ 
 
   # - title: "Vitae"
   #   url: /cv/
