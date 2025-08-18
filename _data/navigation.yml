@@ -12,5 +12,5 @@ main:
       # - title: "Publications"
   #   url: /publications/ 
 
-  # - title: "Vitae"
-  #   url: /cv/
+  - title: "Vitae"
+    url: /files/CV_July2025.pdf
