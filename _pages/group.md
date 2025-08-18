@@ -34,21 +34,28 @@ author_profile: true
 <div class="group-member">
   <img src="/files/images/group/abraham.jpg" alt="Abraham Owodunni">
   <div>
-    <strong><a href="https://abraham.example.com" target="_blank">Abraham Owodunni</a></strong><br>
+    <strong><a href="https://owos.github.io/" target="_blank">Abraham Owodunni</a></strong><br>
   </div>
 </div>
 
 <div class="group-member">
-  <img src="/files/images/group/patrick.jpg" alt="Patrick Da Silva">
+  <img src="/files/images/group/hanane.jpg" alt="Hanane Nour Moussa">
+  <div>
+    <strong><a href="https://sites.google.com/view/hananenourmoussa/home" target="_blank">Hanane Nour Moussa</a></strong><br>
+  </div>
+</div>
+
+<div class="group-member">
+  <img src="/files/images/group/zishuo.png" alt="Zishuo Zheng">
+  <div>
+    <strong><a href="https://zetaring.github.io/" target="_blank">Zishuo Zheng</a></strong><br>
+  </div>
+</div>
+
+<div class="group-member">
+  <img src="/files/images/group/patrick.jpeg" alt="Patrick Da Silva">
   <div>
     <strong><a href="https://patrick.example.com" target="_blank">Patrick Da Silva</a></strong><br>
-  </div>
-</div>
-
-<div class="group-member">
-  <img src="/files/images/group/zishuo.jpg" alt="Zishuo Zheng">
-  <div>
-    <strong><a href="https://zishuo.example.com" target="_blank">Zishuo Zheng</a></strong><br>
   </div>
 </div>
 
@@ -61,21 +68,21 @@ author_profile: true
 <div class="group-grid">
 
 <div class="group-member">
-  <img src="/files/images/group/aaron.jpg" alt="Aaron Jencks">
+  <img src="/files/images/group/aaron.jpeg" alt="Aaron Jencks">
   <div>
-    <strong><a href="https://aaron.example.com" target="_blank">Aaron Jencks</a></strong><br>
+    <strong><a href="https://www.linkedin.com/in/aaron-jencks-185bb924b/" target="_blank">Aaron Jencks</a></strong><br>
   </div>
 </div>
 
 <div class="group-member">
-  <img src="/files/images/group/doeun.jpg" alt="Doeun Lee">
+  <img src="/files/images/group/doeun.jpeg" alt="Doeun Lee">
   <div>
     <strong>Doeun Lee</strong><br>
   </div>
 </div>
 
 <div class="group-member">
-  <img src="/files/images/group/jiwoo.jpg" alt="Jiwoo Park">
+  <img src="/files/images/group/jiwoo.png" alt="Jiwoo Park">
   <div>
     <strong>Jiwoo Park</strong><br>
   </div>
