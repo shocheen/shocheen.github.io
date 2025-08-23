@@ -414,7 +414,7 @@ def parse_publications(content):
             'pub_date': f'{year}-01-01',
             'title': title,
             'venue': venue,
-            'excerpt': f'This paper is about {title}.',
+            'excerpt': '',
             'citation': citation,
             'url_slug': url_slug,
             'paper_url': pdf_url,
