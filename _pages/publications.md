@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: false
+redirect_from:
+  - /research/
 ---
 
 {% if site.author.googlescholar %}
@@ -11,6 +13,12 @@ author_profile: false
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign publications = site.publications | sort: "publication_order" %}
+{% assign current_year = "" %}
+{% for publication in publications %}
+{% if publication.year != current_year %}
+{% assign current_year = publication.year %}
+<h2 class="publication-year">{{ current_year }}</h2>
+{% endif %}
+{% include publication.html publication=publication %}
 {% endfor %}

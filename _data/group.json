@@ -1,0 +1,78 @@
+{
+  "students": [
+    {
+      "name": "Abraham Owodunni",
+      "url": "https://owos.github.io/",
+      "image": "abraham.jpg",
+      "detail": "Ph.D. student · 2024–"
+    },
+    {
+      "name": "Hanane Nour Moussa",
+      "url": "https://sites.google.com/view/hananenourmoussa/home",
+      "image": "hanane.jpg",
+      "detail": "Ph.D. student · 2024–",
+      "note": "Co-advised with Huan Sun"
+    },
+    {
+      "name": "Zishuo Zheng",
+      "url": "https://zetaring.github.io/",
+      "image": "zishuo.png",
+      "detail": "Ph.D. student · 2024–"
+    },
+    {
+      "name": "Patrick Da Silva",
+      "url": "https://patqdasilva.github.io/",
+      "image": "patrick.jpeg",
+      "detail": "Ph.D. student · 2025–"
+    },
+    {
+      "name": "Muge Zhang",
+      "url": "https://mugezhang-1.github.io/",
+      "image": "muge.jpg",
+      "detail": "Ph.D. student · 2025–"
+    },
+    {
+      "name": "Yusen Peng",
+      "url": "https://yusen-peng.github.io/",
+      "image": "yusen.jpg",
+      "detail": "Ph.D. student · 2026–"
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Nikhil Pavan Kanaka",
+      "url": "https://www.linkedin.com/in/nikhilkanaka/",
+      "image": "nikhil.jpg",
+      "detail": "M.S. · 2024",
+      "note": "Software Engineer at StackGen"
+    },
+    {
+      "name": "Aaron Jencks",
+      "url": "https://www.linkedin.com/in/aaron-jencks-185bb924b/",
+      "image": "aaron.jpeg",
+      "detail": "M.S. · 2024–2025",
+      "note": "Ph.D. at OSU with Radu Teodorescu"
+    },
+    {
+      "name": "Doeun Lee",
+      "url": "https://leadoeun.github.io/",
+      "image": "doeun.jpeg",
+      "detail": "M.S. · 2024–2026",
+      "note": "Research Assistant at Seoul National University"
+    },
+    {
+      "name": "Jiwoo Park",
+      "url": "https://www.linkedin.com/in/jiwoo-park-55605525b/",
+      "image": "jiwoo.png",
+      "detail": "M.S. · 2024–2026",
+      "note": "Ph.D. at OSU with Ping Zhang"
+    },
+    {
+      "name": "Yi Yu",
+      "url": "https://openreview.net/profile?id=%7EYi_Yu10",
+      "detail": "M.S. · 2024–2026",
+      "note": "Ph.D. at Purdue University",
+      "initials": "YY"
+    }
+  ]
+}

@@ -47,7 +47,12 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.slidesurl %}
+        {% if page.collection == 'publications' and page.links %}
+          <p class="publication-authors">{{ page.authors | escape | replace: 'Sachin Kumar', '<strong>Sachin Kumar</strong>' }}</p>
+          {% include publication-links.html publication=page %}
+          <h2>Citation</h2>
+          <p>{{ page.citation }}</p>
+        {% elsif page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% elsif page.citation and page.paperurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>

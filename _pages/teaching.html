@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+  {% for course in site.data.courses %}
+    <li><a href="{{ course.url | escape }}">{{ course.title | escape }}</a></li>
+  {% endfor %}
+</ul>

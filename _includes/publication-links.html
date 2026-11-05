@@ -1,0 +1,8 @@
+{% assign publication = include.publication %}
+{% if publication.links.size > 0 %}
+<p class="publication-links">
+  {% for resource in publication.links %}
+    <a href="{{ resource.url | escape }}">{{ resource.label | escape }}</a>{% unless forloop.last %}<span aria-hidden="true"> · </span>{% endunless %}
+  {% endfor %}
+</p>
+{% endif %}

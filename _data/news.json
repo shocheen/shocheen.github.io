@@ -1,0 +1,527 @@
+[
+  {
+    "month": "October",
+    "year": 2026,
+    "body": "Presented a [tutorial on tokenization in LLMs](https://tokenization-tutorial.github.io/) at EMNLP 2026. Attended by ~150 people!"
+  },
+  {
+    "month": "October",
+    "year": 2026,
+    "body": "Our paper on [accent bias in audio LMs](https://aclanthology.org/2026.emnlp-main.1612/) won outstanding paper award 🏆 at EMNLP 2026."
+  },
+  {
+    "month": "September",
+    "year": 2026,
+    "body": "Our [tokenization survey paper](https://www.alphaxiv.org/abs/2609.tokenization-survey-modern-nlp) is out!"
+  },
+  {
+    "month": "September",
+    "year": 2026,
+    "body": "[HalluWorld](https://arxiv.org/abs/2605.19341) is accepted to NeurIPS 2026 D&B Track."
+  },
+  {
+    "month": "September",
+    "year": 2026,
+    "body": "Our [EMNLP 2026 paper](https://arxiv.org/abs/2609.22234v1) on instruction hierarchy resolution in multimodal LLMs is now on arXiv."
+  },
+  {
+    "month": "August",
+    "year": 2026,
+    "body": "Our [EMNLP 2026 paper](https://arxiv.org/abs/2608.25904) on pretraining LMs with phonetic representations is now on arXiv."
+  },
+  {
+    "month": "August",
+    "year": 2026,
+    "body": "Three papers accepted to EMNLP 2026 (Main)! More details soon."
+  },
+  {
+    "month": "August",
+    "year": 2026,
+    "body": "New preprint on [multi-byte prediction in latent tokenizer based language models](https://arxiv.org/abs/2608.15454)."
+  },
+  {
+    "month": "July",
+    "year": 2026,
+    "body": "We will organize a [tutorial on tokenization](https://tokenization-tutorial.github.io/tutorial/) for LLMs at EMNLP 2026."
+  },
+  {
+    "month": "July",
+    "year": 2026,
+    "body": "Paper on evaluating [AI-assisted scientific writing](https://arxiv.org/abs/2606.15583) accepted to COLM 2026!"
+  },
+  {
+    "month": "July",
+    "year": 2026,
+    "body": "Organized the 2nd edition of CustomNLP4U at ACL 2026."
+  },
+  {
+    "month": "June",
+    "year": 2026,
+    "body": "Giving an invited talk at [Midwest ML symposium](https://midwest-ml.org/2026/)."
+  },
+  {
+    "month": "June",
+    "year": 2026,
+    "body": "New preprint on evaluating [AI-assisted scientific writing](https://arxiv.org/abs/2606.15583)."
+  },
+  {
+    "month": "May",
+    "year": 2026,
+    "body": "New preprint on a clinical QA benchmark for rare cases: [OGCareBench](https://arxiv.org/abs/2605.21807)."
+  },
+  {
+    "month": "May",
+    "year": 2026,
+    "body": "New preprint on a hallucination benchmark: [HalluWorld](https://arxiv.org/html/2605.19341v1)."
+  },
+  {
+    "month": "May",
+    "year": 2026,
+    "body": "[Tokenization Workshop](https://tokenization-workshop.github.io/) will hold a second edition at COLM 2026 🎉."
+  },
+  {
+    "month": "May",
+    "year": 2026,
+    "body": "New ACL findings paper on G[lauber Dynamics-based diffusion LMs](https://arxiv.org/abs/2605.04291)."
+  },
+  {
+    "month": "April",
+    "year": 2026,
+    "body": "Position paper on a [unified definition of hallucination](https://arxiv.org/abs/2512.21577) accepted at ICML 2026!"
+  },
+  {
+    "month": "April",
+    "year": 2026,
+    "body": "Three papers accepted to ACL 2026 (Findings)! Updated versions out soon."
+  },
+  {
+    "month": "March",
+    "year": 2026,
+    "body": "New preprint out on scaling laws for [RAG-considerate pretraining](http://arxiv.org/abs/2604.00715)."
+  },
+  {
+    "month": "February",
+    "year": 2026,
+    "body": "[LayRA](https://arxiv.org/abs/2509.11414) is now accepted at TMLR!"
+  },
+  {
+    "month": "February",
+    "year": 2026,
+    "body": "[ClinicalTrialsHub](https://arxiv.org/pdf/2512.08193) accepted at EACL 2026 (Demo Track)!"
+  },
+  {
+    "month": "February",
+    "year": 2026,
+    "body": "New preprint out on benchmarking audio LMs on music understanding: [BASS](https://www.arxiv.org/abs/2602.04085)."
+  },
+  {
+    "month": "January",
+    "year": 2026,
+    "body": "Paper on [AI assistance in scientific writing](https://arxiv.org/pdf/2511.12529) now accepted at IUI 2026!"
+  },
+  {
+    "month": "December",
+    "year": 2025,
+    "body": "New preprint on a [unified definition of hallucination](https://arxiv.org/abs/2512.21577)."
+  },
+  {
+    "month": "December",
+    "year": 2025,
+    "body": "New preprint on a system demonstration for finding and analyzing clinicial trial information: [ClinicalTrialsHub](https://arxiv.org/pdf/2512.08193)."
+  },
+  {
+    "month": "November",
+    "year": 2025,
+    "body": "New preprint on [AI assistance in scientific writing](https://arxiv.org/pdf/2511.12529)."
+  },
+  {
+    "month": "November",
+    "year": 2025,
+    "body": "New preprint out on reasoning for instruction hierarchy resolution: [VerIH](https://arxiv.org/pdf/2511.04694)."
+  },
+  {
+    "month": "November",
+    "year": 2025,
+    "body": "Recognized as an outstanding Senior Area Chair at EMNLP 2025."
+  },
+  {
+    "month": "October",
+    "year": 2025,
+    "body": "New preprint out on evaluating research ideas: [ScholarEval](https://arxiv.org/pdf/2510.16234)."
+  },
+  {
+    "month": "September",
+    "year": 2025,
+    "body": "[New preprint out](https://arxiv.org/pdf/2509.11414) on continually adding new languages to multilingual LMs."
+  },
+  {
+    "month": "August",
+    "year": 2025,
+    "body": "I will be at COLM to co-organize [MELT workshop](https://melt-workshop.github.io/)."
+  },
+  {
+    "month": "August",
+    "year": 2025,
+    "body": "[Steering Off Course](https://arxiv.org/abs/2504.04635) wins SAC Highlights award at ACL 2025! 🎉"
+  },
+  {
+    "month": "July",
+    "year": 2025,
+    "body": "Co-organizing [Tokenization Workshop](https://tokenization-workshop.github.io/) at ICML 2025! Also (co-)presenting BLAB at ML4Audio Workshop, Steering Off Course at Actionable Interp Workshop, and Flexitokens at TokShop."
+  },
+  {
+    "month": "July",
+    "year": 2025,
+    "body": "New paper out on making tokenization more flexible to adaptation: [FlexiTokens](https://arxiv.org/abs/2507.12720)."
+  },
+  {
+    "month": "July",
+    "year": 2025,
+    "body": "Personalization survey accepted at COLM 2025!"
+  },
+  {
+    "month": "July",
+    "year": 2025,
+    "body": "Three papers now accepted at ACL 2025 ([Steering Off Course](https://arxiv.org/abs/2504.04635) (Oral [top 8%], Panel [top 0.8%]), [TESS 2](https://arxiv.org/abs/2502.13917) (Oral), [HybridPref](https://arxiv.org/abs/2410.19133))!"
+  },
+  {
+    "month": "May",
+    "year": 2025,
+    "body": "New paper out on benchmarking audio LMs: [BLAB](https://arxiv.org/abs/2505.03054)!"
+  },
+  {
+    "month": "April",
+    "year": 2025,
+    "body": "New survey paper on [personalized preference learning](https://arxiv.org/abs/2504.07070)."
+  },
+  {
+    "month": "April",
+    "year": 2025,
+    "body": "New paper on brittleness of steering methods: [Steering Off Course](https://arxiv.org/abs/2504.04635)."
+  },
+  {
+    "month": "March",
+    "year": 2025,
+    "body": "Invited talk at [UPenn CLunch Seminar.](https://nlp.cis.upenn.edu/clunch.html)"
+  },
+  {
+    "month": "February",
+    "year": 2025,
+    "body": "New paper on diffusion LMs: [TESS 2](https://arxiv.org/abs/2502.13917)."
+  },
+  {
+    "month": "January",
+    "year": 2025,
+    "body": "Three papers (ComPO, GroundCocoa, and RewardBench) now accepted at NAACL 2025 (see you in New Mexico)!"
+  },
+  {
+    "month": "November",
+    "year": 2024,
+    "body": "Will be in Miami to organize [Customizable NLP @ EMNLP 2024](https://customnlp4u-24.github.io/)! Proceedings now live [here](https://aclanthology.org/2024.customnlp4u-1.0/)."
+  },
+  {
+    "month": "October",
+    "year": 2024,
+    "body": "New paper on personalization: [ComPO](https://arxiv.org/abs/2410.16027)."
+  },
+  {
+    "month": "October",
+    "year": 2024,
+    "body": "New paper on preference annotation: [HybridPref](https://arxiv.org/abs/2410.19133)."
+  },
+  {
+    "month": "September",
+    "year": 2024,
+    "body": "[MAGNET](https://arxiv.org/abs/2407.08818) and [WildTeaming](https://arxiv.org/abs/2406.18510) now accepted at NeurIPS 2024!"
+  },
+  {
+    "month": "August",
+    "year": 2024,
+    "body": "Moved to Columbus and started at OSU!"
+  },
+  {
+    "month": "August",
+    "year": 2024,
+    "body": "[Dolma](https://arxiv.org/abs/2402.00159) won the [best resource paper award](https://x.com/JesseDodge/status/1823648142081839130) at ACL 2024! 🎉"
+  },
+  {
+    "month": "July",
+    "year": 2024,
+    "body": "The website for [the Customizable NLP](https://customnlp4u-24.github.io/) workshop (to be held at EMNLP 2024) is up, including the CFP. Submit your papers!"
+  },
+  {
+    "month": "July",
+    "year": 2024,
+    "body": "New paper: [Improving multilingual fairness of language models (MAGNET)](https://arxiv.org/abs/2407.08818)."
+  },
+  {
+    "month": "July",
+    "year": 2024,
+    "body": "New paper on [Contextual Noncompliance](https://blog.allenai.org/broadening-the-scope-of-noncompliance-when-and-how-ai-models-should-not-comply-with-user-requests-18b028c5b538)!"
+  },
+  {
+    "month": "June",
+    "year": 2024,
+    "body": "New paper [WildTeaming](https://arxiv.org/abs/2406.18510) on arXiv!"
+  },
+  {
+    "month": "May",
+    "year": 2024,
+    "body": "Dolma is accepted at ACL 2024!"
+  },
+  {
+    "month": "May",
+    "year": 2024,
+    "body": "Presented Gen-Z at ICLR 2024 in Vienna."
+  },
+  {
+    "month": "April",
+    "year": 2024,
+    "body": "Invited talk on language model refusals at MilaNLP."
+  },
+  {
+    "month": "March",
+    "year": 2024,
+    "body": "Two papers accepted at NAACL 2024!"
+  },
+  {
+    "month": "March",
+    "year": 2024,
+    "body": "[Reward-bench](https://arxiv.org/abs/2403.13787) paper is on arXiv!"
+  },
+  {
+    "month": "March",
+    "year": 2024,
+    "body": "Gave a guest lecture on mitigating societal harms of LLMs at KAIST."
+  },
+  {
+    "month": "February",
+    "year": 2024,
+    "body": "[Dolma](https://arxiv.org/abs/2402.00159) is on arXiv!"
+  },
+  {
+    "month": "January",
+    "year": 2024,
+    "body": "Paper on [Generative zero-shot classification](https://openreview.net/pdf?id=rkplYfqUr0) accepted at ICLR 2024!"
+  },
+  {
+    "month": "December",
+    "year": 2023,
+    "body": "Giving an invited talk at the [IndoML symposium](https://indoml.in/schedule/) on December 22nd, 2023. Come say hi!"
+  },
+  {
+    "month": "November",
+    "year": 2023,
+    "body": "I am co-teaching a tutorial on [mitigating societal harms in LLMs](https://llm-harm-mitigation.github.io/tutorial/) at EMNLP 2023. See you in Singapore!"
+  },
+  {
+    "month": "November",
+    "year": 2023,
+    "body": "New preprint out on [zero-shot text classification](https://arxiv.org/abs/2311.07115)."
+  },
+  {
+    "month": "November",
+    "year": 2023,
+    "body": "New preprint out on [preserving author perspectives in news summarization](https://arxiv.org/pdf/2311.09741.pdf)."
+  },
+  {
+    "month": "October",
+    "year": 2023,
+    "body": "I’m co-organizing a workshop on Customizable NLP at EMNLP 2024! Details forthcoming."
+  },
+  {
+    "month": "October",
+    "year": 2023,
+    "body": "[A paper](https://arxiv.org/abs/2305.13707) accepted at EMNLP 2023! An updated camera ready soon."
+  },
+  {
+    "month": "August",
+    "year": 2023,
+    "body": "Successfully defended my thesis 🥳."
+  },
+  {
+    "month": "August",
+    "year": 2023,
+    "body": "Started at AI2 as a Young Investigator."
+  },
+  {
+    "month": "July",
+    "year": 2023,
+    "body": "Our paper [Minding Language Models' (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker](https://arxiv.org/abs/2306.00924) got outstanding paper awards at ACL 2023 and ICML 2023 Theory of Mind Workshop 🎉."
+  },
+  {
+    "month": "July",
+    "year": 2023,
+    "body": "I will join Ohio State University as an Assistant Professor in the CS Department in Fall 2024!"
+  },
+  {
+    "month": "July",
+    "year": 2023,
+    "body": "I will spend a year as a postdoc at Allen Institute for AI working with Hanna Hajishirzi and Noah Smith!"
+  },
+  {
+    "month": "May",
+    "year": 2023,
+    "body": "Two new preprints on arXiv: [Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models](https://arxiv.org/abs/2305.13707) and [SSD-2: Scaling and Inference-time Fusion of Diffusion Language Models](https://arxiv.org/abs/2305.14771)."
+  },
+  {
+    "month": "May",
+    "year": 2023,
+    "body": "3 papers accepted at ACL 2023! Camera-ready versions out soon."
+  },
+  {
+    "month": "May",
+    "year": 2023,
+    "body": "Vidhisha presented our [survey paper](https://arxiv.org/abs/2210.07700) at EACL in Croatia!"
+  },
+  {
+    "month": "April",
+    "year": 2023,
+    "body": "New preprint out on arXiv: [Assessing Language Model Deployment with Risk Cards](https://arxiv.org/abs/2303.18190)."
+  },
+  {
+    "month": "January",
+    "year": 2023,
+    "body": "Our [survey paper](https://arxiv.org/abs/2210.07700) got accepted at EACL 2023! The camera-ready version out soon."
+  },
+  {
+    "month": "December",
+    "year": 2022,
+    "body": "New preprint out of arXiv: [On the Blind Spots of Model-Based Evaluation Metrics for Text Generation](https://arxiv.org/abs/2212.10020)"
+  },
+  {
+    "month": "October",
+    "year": 2022,
+    "body": "New preprint out on arXiv: [SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Contro](https://arxiv.org/abs/2210.17432)l."
+  },
+  {
+    "month": "October",
+    "year": 2022,
+    "body": "Passed my thesis proposal. I am now a Ph.D. candidate!"
+  },
+  {
+    "month": "October",
+    "year": 2022,
+    "body": "Gave an invited talk about my latest research at Google."
+  },
+  {
+    "month": "October",
+    "year": 2022,
+    "body": "New preprint out on arXiv: \"[Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey](https://arxiv.org/abs/2210.07700)\"."
+  },
+  {
+    "month": "October",
+    "year": 2022,
+    "body": "Two papers accepted at EMNLP 2022! arXiv versions out soon."
+  },
+  {
+    "month": "June",
+    "year": 2022,
+    "body": "My research is now funded by [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/)!"
+  },
+  {
+    "month": "May",
+    "year": 2022,
+    "body": "New preprint out on arXiv: \"Constrained Sampling from Language Models via Langevin Dynamics in Embedding Spaces\"."
+  },
+  {
+    "month": "April",
+    "year": 2022,
+    "body": "Gave a [tutorial](https://www.youtube.com/watch?v=0OVpfWwrGME&list=PL_4c34HZDoN6P4liXPoFjQiIoZEQLsxD3&index=14) at [TheWebConf 2022](https://www2022.thewebconf.org/) on \"Mitigating Societal Harms of Large Language Models: A Case Study in Language Generation\""
+  },
+  {
+    "month": "September",
+    "year": 2021,
+    "body": "[Paper](https://arxiv.org/abs/2108.01850) on \"Controlled Text Generation as Continuous Optimization with Multiple Constraints\" accepted at NeurIPS 2021!"
+  },
+  {
+    "month": "September",
+    "year": 2021,
+    "body": "Short paper on \"Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs\" accepted at MRL@EMNLP 2021!"
+  },
+  {
+    "month": "May",
+    "year": 2021,
+    "body": "Short paper on \"Machine Translation into Low Resource Language Varieties\" accepted at ACL 2021! arXiv preprint coming soon."
+  },
+  {
+    "month": "March",
+    "year": 2021,
+    "body": "Paper on \"An Exploration of Data Augmentation Techniques for Improving English to Tigrinya Translation\" accepted at AfricaNLP@EACL 2021. Preprint coming soon."
+  },
+  {
+    "month": "November",
+    "year": 2020,
+    "body": "Paper on \"End-to-End Differentiable GANs for Text Generation\" accepted at the ICBINB@NeurIPS 2020."
+  },
+  {
+    "month": "November",
+    "year": 2020,
+    "body": "Invited Talk on \"Language Generation with Continuous Outputs\" at G-Research, London."
+  },
+  {
+    "month": "Aug",
+    "year": 2020,
+    "body": "Teaching Assistant for the brand new course on [Multilingual NLP (Fall 2020)](http://demo.clab.cs.cmu.edu/11737fa20/) at CMU."
+  },
+  {
+    "month": "May",
+    "year": 2020,
+    "body": "Paper on \"A Deep Reinforced Model for Cross-Lingual Summarization with Bilingual Semantic Similarity Reward\" accepted at WNGT@ACL 2020."
+  },
+  {
+    "month": "December",
+    "year": 2019,
+    "body": "Going to Facebook AI Research, Seattle (virtually) for the summer."
+  },
+  {
+    "month": "November",
+    "year": 2019,
+    "body": "Presented two posters at EMNLP 2019 in Hong Kong"
+  },
+  {
+    "month": "September",
+    "year": 2019,
+    "body": "Paper on \"A Margin-based Loss with Synthetic Negative Samples for Continuous-output Machine Translation\" accepted at EMNLP-WNGT workshop!"
+  },
+  {
+    "month": "September",
+    "year": 2019,
+    "body": "Teaching Assistant for [Algorithms for NLP](http://demo.clab.cs.cmu.edu/11711fa19/) (Fall 2019)"
+  },
+  {
+    "month": "August",
+    "year": 2019,
+    "body": "Paper on \"Topics to Avoid: Demoting Latent Confounds in Text Classification\" accepted at EMNLP 2019!"
+  },
+  {
+    "month": "May",
+    "year": 2019,
+    "body": "Headed to Facebook for the summer as a research intern in their conversational AI team in Menlo Park."
+  },
+  {
+    "month": "December",
+    "year": 2018,
+    "body": "Paper on \"[Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs](https://openreview.net/forum?id=rJlDnoA5Y7)\" accepted at ICLR 2019!"
+  },
+  {
+    "month": "October",
+    "year": 2018,
+    "body": "Gave my first ever lecture in Algorithms for NLP on Structural Classification"
+  },
+  {
+    "month": "September",
+    "year": 2018,
+    "body": "Teaching Assistant for [Algorithms for NLP](http://demo.clab.cs.cmu.edu/11711fa18) (Fall 2018)"
+  },
+  {
+    "month": "August",
+    "year": 2018,
+    "body": "Gave a talk about my research on Machine Translation with Continuous Outputs at LTI's Student Research Symposium"
+  },
+  {
+    "month": "August",
+    "year": 2017,
+    "body": "Headed to CMU LTI to start my PhD"
+  }
+]

@@ -1,0 +1,13 @@
+<ul class="news-list">
+{% for item in site.data.news limit:8 %}
+  <li><strong>{{ item.month }} {{ item.year }}</strong> — {{ item.body | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+{% endfor %}
+</ul>
+<details class="news-archive">
+  <summary>Earlier news</summary>
+  <ul class="news-list">
+  {% for item in site.data.news offset:8 %}
+    <li><strong>{{ item.month }} {{ item.year }}</strong> — {{ item.body | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+  {% endfor %}
+  </ul>
+</details>

@@ -1,0 +1,86 @@
+.publication {
+  margin: 1.5rem 0 2rem;
+  overflow-wrap: anywhere;
+}
+
+.publication-title {
+  margin: 0 0 .4rem;
+  font-size: 1.05em;
+  line-height: 1.45;
+}
+
+.publication-authors,
+.publication-venue,
+.publication-links {
+  margin: .35rem 0;
+  font-size: .85em;
+  line-height: 1.6;
+}
+
+.publication-venue {
+  font-style: italic;
+}
+
+.publication-year {
+  margin-top: 2rem;
+  padding-bottom: .35rem;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.publication-links a {
+  display: inline-block;
+  padding: .2rem 0;
+}
+
+.news-list {
+  padding-left: 1.2rem;
+  font-size: .9em;
+}
+
+.news-list li {
+  margin-bottom: .7rem;
+}
+
+.news-archive summary {
+  cursor: pointer;
+  margin: 1rem 0;
+  color: #25617b;
+}
+
+.group-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 2rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.group-member {
+  text-align: center;
+  font-size: .85em;
+}
+
+.group-member img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: .5rem;
+}
+
+.group-member p {
+  margin: .3rem 0;
+  font-size: .85em;
+}
+
+.group-initials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  height: 140px;
+  margin: 0 auto .5rem;
+  border-radius: 50%;
+  background: #eef2f4;
+  color: #556775;
+  font-size: 2rem;
+}

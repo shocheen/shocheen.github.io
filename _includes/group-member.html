@@ -1,0 +1,11 @@
+{% assign member = include.member %}
+<div class="group-member">
+  {% if member.image %}
+    <img src="{{ '/images/group/' | append: member.image | relative_url }}" alt="{{ member.name | escape }}" width="140" height="140" loading="lazy">
+  {% else %}
+    <div class="group-initials" aria-hidden="true">{{ member.initials | escape }}</div>
+  {% endif %}
+  <div><strong><a href="{{ member.url | escape }}">{{ member.name | escape }}</a></strong></div>
+  <p>{{ member.detail | escape }}</p>
+  {% if member.note %}<p>{{ member.note | escape }}</p>{% endif %}
+</div>

@@ -1,0 +1,31 @@
+{
+  "2026-01-01-sounds-like-youre-not-from-around-here-accent-bias-in-audio-language-models": {
+    "fields": {
+      "title": "The Cost of Sounding Different: Accent Bias in Audio Language Models",
+      "venue": "2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Outstanding Paper Award 🏆"
+    },
+    "additional_links": [{"label": "pdf", "url": "https://aclanthology.org/2026.emnlp-main.1612.pdf"}],
+    "sources": ["https://aclanthology.org/2026.emnlp-main.1612/"]
+  },
+  "2026-01-01-connecting-the-dots-enduring-performance-gaps-in-asr-systems-between-standard-and-minority-english-varieties": {
+    "fields": {
+      "authors": "Alexander Metzger, Aruna Srivastava, Ruslan Mukhamedvaleev, Eunjung Yeo, Syed Ishtiaque Ahmed, Nina Markl, Sachin Kumar, Farhan Samir"
+    },
+    "additional_links": [
+      {"label": "pdf", "url": "https://arxiv.org/abs/2610.17761"},
+      {"label": "code and data", "url": "https://github.com/smfsamir/longitudinal-asr-eval"}
+    ],
+    "sources": ["https://arxiv.org/abs/2610.17761"]
+  },
+  "2021-01-01-improving-the-diversity-of-unsupervised-paraphrasing-with-embedding-outputs": {
+    "additional_links": [
+      {"label": "pdf", "url": "https://aclanthology.org/2021.mrl-1.15.pdf"},
+      {"label": "code", "url": "https://github.com/monisha-jega/paraphrasing_embedding_outputs"}
+    ],
+    "sources": ["https://aclanthology.org/2021.mrl-1.15/", "https://aclanthology.org/2021.mrl-1.15.pdf"]
+  },
+  "2023-01-01-assessing-language-model-deployment-with-risk-cards": {
+    "additional_links": [{"label": "pdf", "url": "https://arxiv.org/abs/2303.18190"}],
+    "sources": ["https://arxiv.org/abs/2303.18190", "https://sites.google.com/view/sachinkumar"]
+  }
+}

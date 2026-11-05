@@ -1,16 +1,16 @@
 #main links links
 main:
   - title: "My Group"
-    url: /group/   
-    
+    url: /group/
+
   - title: "Prospective Students"
     url: /prospective-students/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
-      # - title: "Publications"
-  #   url: /publications/ 
+  - title: "Research"
+    url: /publications/
 
   - title: "Vitae"
     url: /files/CV_July2025.pdf

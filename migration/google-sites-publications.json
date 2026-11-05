@@ -1,0 +1,645 @@
+[
+  {
+    "text": "[2026][pdf] Marco Cognetta, Christopher Akiki, Pawan Sasanka Ammanamanchi, Catherine Arnett, Thomas Bauwens, Pavel Chizhov, Pieter Delobelle, Konstantin Dobler, Desmond Elliott, Omer Goldman, Tatsuya Hiraoka, Valentin Hofmann, Eugene Jang, Julie Kallini, Ilker Kesen, Sachin Kumar, Sander Land, Jindřich Libovický, Tomasz Limisiewicz, Alisa Liu, Clara Meister, Benjamin Minixhofer, Sangwhan Moon, Tiago Pimentel, David Pohl, Suchir Salhan, Tomohiro Sawada, Pavel Stepachev, Gianluca Vico, Philip Whittington, Xiulin Yang, Yuval Pinter, \"Tokenization: A Survey for Modern NLP,\" preprint.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://www.alphaxiv.org/abs/2609.tokenization-survey-modern-nlp"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf] Emmy Liu, Varun Gangal, Michael Yu, Zhuofu Tao, Karan Singh, Sachin Kumar, Steven Y. Feng, \"HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models\", Fortieth Conference on Neural Information Processing Systems (NeurIPS): Datasets and Benchmarks Track. To Appear.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/html/2605.19341v1"
+      }
+    ]
+  },
+  {
+    "text": "[2026][[pdf] Alexander Le Metzger, Aruna Srivastava, Ruslan Mukhamedvaleev, Eunjung Yeo, Syed Ishtiaque Ahmed, Nina Markl, Sachin Kumar, Farhan Samir, \"Connecting the Dots: Enduring Performance Gaps in ASR Systems Between Standard and Minority English Varieties,\" 2026 IEEE Spoken Language Technology (SLT 2026). To Appear.",
+    "links": []
+  },
+  {
+    "text": "[2026][pdf][code] Muge Zhang, Aaron Jencks, Krishna Badikela, Yulia Tsvetkov, Sachin Kumar, \"One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography,\" 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/html/2608.25904"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/skai-research/one-form-transfer"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf][code] Nicholas Sansoterra, Zishuo Zheng, Sachin Kumar, \"Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models,\" 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026): Findings.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2609.22234v1"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/skai-research/Seeing-Through-Conflicts"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf][code] Aruna Srivastava, Orevaoghene Ahia, Li Lucy, Ashley Christendat, Sameep Chattopadhyay, Farhan Samir, Tejumade Afonja, Valentin Hofmann, Sachin Kumar, Noah A. Smith, Yulia Tsvetkov, \"Sounds Like You’re Not From Around Here: Accent Bias in Audio Language Models.\" 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Oustanding Paper Award 🏆.",
+    "links": []
+  },
+  {
+    "text": "[2026][pdf][code] Abraham Toluwase Owodunni, Chibuzor Okocha, Christan Grant, Tomasz Limisiewicz, Sachin Kumar, \"Dynamic Multi-Byte Prediction With Hierarchical Language Models,\" preprint.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2608.15454"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/skai-research/lca-multibyte"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf][code][data] Patrick Queiroz Da Silva, Sanchaita Hazra, Doeun Lee, Sachin Kumar, Bodhisattwa Prasad Majumder, \"Process-Oriented Evaluation of AI-Assisted Scientific Writing\", 2026 Conference of Language Modeling (COLM 2026). To appear.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2606.15583"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/skai-research/process-revision-sci-writing"
+      },
+      {
+        "label": "data",
+        "url": "https://huggingface.co/datasets/patrickqdasilva/process-revision-sci-write"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf][code][data] Doeun Lee, Muge Zhang, Yi Yu, Ashish Manne, Stephen Koesters, Frank Wen, Brady Buchanan, Lynda Villagomez, Oluwatoba Moninuola, James Lim, Kathryn Tobin, Andrew Srisuwananukorn, Ping Zhang, Sachin Kumar, \"When Cases Get Rare: A Retrieval Benchmark for Off-Guideline Clinical Question Answering\", preprint.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2605.21807"
+      },
+      {
+        "label": "data",
+        "url": "https://huggingface.co/datasets/leadoeun/OGCaReBench"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf] Karan Singh, Michael Yu, Varun Gangal, Zhuofu Tao, Sachin Kumar, Emmy Liu, Steven Y. Feng, \"To Memorize or to Retrieve: Scaling Laws for RAG-Considerate Pretraining\", preprint.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2604.00715"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf] Tarun Kathuria, Sachin Kumar, \"Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion\", 2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2605.04291"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf][website][code][data] Min Jang, Orevaoghene Ahia, Nazif Tamer, Sachin Kumar, Yulia Tsvetkov, Noah A. Smith, \"BASS: Benchmarking Audio LMs for Musical Structure and Semantic Reasoning.\" preprint.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://www.arxiv.org/abs/2602.04085"
+      },
+      {
+        "label": "website",
+        "url": "https://minjang10.github.io/bass-website/"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/minjang10/bass_music_benchmark"
+      },
+      {
+        "label": "data",
+        "url": "https://huggingface.co/datasets/oreva/bass_music_benchmark"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf][demo][code] Jiwoo Park, Ruoqi Liu, Avani Jagdale, Andrew Srisuwananukorn, Jing Zhao, Lang Li, Ping Zhang, Sachin Kumar, \"ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access\", The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 System Demonstration).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2512.08193"
+      },
+      {
+        "label": "demo",
+        "url": "https://cth-frontend-103266204202.us-central1.run.app/"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/jiwoo-jus/clinical-trials-hub"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf][code] Sanchaita Hazra*, Doeun Lee*, Bodhisattwa Prasad Majumder, Sachin Kumar, \"Accepted with Minor Revisions: Value of AI-Assisted Scientific Writing\", 2026 ACM Conference on Intelligent User Interfaces (IUI 2026). *=equal contribution.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2511.12529"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/skai-research/scientific-writing-assistance"
+      }
+    ]
+  },
+  {
+    "text": "[2026][pdf] Emmy Liu, Varun Gangal, Chelsea Zou, Xiaoqi Huang, Michael Yu, Alex Chang, Zhuofu Tao, Sachin Kumar, Steven Y Feng, \"A Unified Definition of Hallucination, Or: It's the World Model, Stupid\", Internation Conference on Machine Learning (ICML 2026) Position Paper Track.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2512.21577"
+      }
+    ]
+  },
+  {
+    "text": "[2025]][pdf][code] Zishuo Zheng, Vidhisha Balachandran, Chan Young Park, Faeze Brahman, Sachin Kumar, \"Reasoning Up the Instruction Ladder for Controllable Language Models\", 2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings), also presented at Foundations of Reasoning in Language Models (FoRLM) Workshop at NeurIPS 2025.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2511.04694"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/skai-research/VerIH"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf][code][demo] Hanane Nour Moussa*, Patrick Queiroz Da Silva*, Daniel Adu-Ampratwum, Alyson East, Zitong Lu, Nikki Puccetti, Mingyi Xue, Huan Sun, Bodhisattwa Prasad Majumder, Sachin Kumar, \"ScholarEval: Research Idea Evaluation Grounded in Literature\", preprint. *=equal contribution.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2510.16234"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/skai-research/ScholarEval"
+      },
+      {
+        "label": "demo",
+        "url": "https://t.co/hlJv1dxAOb"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf] Alex Gulko*, Yusen Peng*, Sachin Kumar, \"CE-Bench: Towards a Reliable Contrastive Evaluation Benchmark of Interpretability of Sparse Autoencoders\", BlackboxNLP at EMNLP 2025. *=equal contribution.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2509.00691"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf][code] Abraham Toluwase Owodunni, Sachin Kumar, \"Continually Adding New Languages to Multilingual Language Models\", Transactions of Machine Learning Research (TMLR); also presented at Multilingual and Equitable Language Technologies (MELT) Workshop @COLM 2025.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2509.11414"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf][code][data] Orevaoghene Ahia, Martijn Bartelds, Kabir Ahuja, Hila Gonen, Valentin Hofmann, Siddhant Arora, Shuyue Stella Li, Vishal Puttagunta, Mofetoluwa Adeyemi, Charishma Buchireddy, Ben Walls, Noah Bennett, Shinji Watanabe, Noah A. Smith, Yulia Tsvetkov, Sachin Kumar, \"BLAB: Brutally Long Audio Bench\", preprint.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2505.03054"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/orevaahia/brutally_long_audio_bench"
+      },
+      {
+        "label": "data",
+        "url": "https://huggingface.co/datasets/oreva/blab_long_audio"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf] Zhouhang Xie, Junda Wu, Yiran Shen, Yu Xia, Xintong Li, Aaron Chang, Ryan Rossi, Sachin Kumar, Bodhisattwa Prasad Majumder, Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley, \"A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models\", Conference on Language Modeling (COLM) 2025.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2504.07070"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf][code] Abraham Toluwase Owodunni, Orevaoghene Ahia, Sachin Kumar, \"FLEXITOKENS: Flexible Tokenization for Evolving Language Models\", 2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings), also presented at Tokenization Workshop @ICML 2025.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2507.12720"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/owos/flexitokens"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf] Carolina Hatanpää, Noah A. Smith, Sachin Kumar, \"On Distributional Robustness of In-Context Learning for Text Classification\", Second Workshop on Test-Time Adaptation: Putting Updates to the Test! @ICML 2025.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://openreview.net/pdf?id=fJgOCX5rDp"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf][code] Patrick Queiroz Da Silva, Hari Sethuraman, Dheeraj Rajagopal, Hannaneh Hajishirzi, Sachin Kumar, \"Steering off Course: Reliability Challenges in Steering Language Models\", 2025 Conference of the Association for Computational Linguistics (ACL 2025). Oral (top 8%), Panel (top 0.8%).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2504.04635"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/patqdasilva/steering-off-course"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf][code][demo] Jaesung Tae*, Hamish Ivison*, Sachin Kumar, Arman Cohan, \"TESS 2: A Large-Scale Generalist Diffusion Language Model\", 2025 Conference of the Association for Computational Linguistics (ACL 2025) Oral (top 8%). *=equal contribution.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2502.13917"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/hamishivi/tess-2"
+      },
+      {
+        "label": "demo",
+        "url": "https://t.co/9uRf1qx0RE"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf][code][data][blog] Lester James V. Miranda, Yizhong Wang, Yanai Elazar, Sachin Kumar, Valentina Pyatkin, Faeze Brahman, Noah A. Smith, Hannaneh Hajishirzi, Pradeep Dasigi, \"Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback\", 2025 Conference of the Association for Computational Linguistics (ACL 2025).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2410.19133"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/allenai/hybrid-preferences"
+      },
+      {
+        "label": "data",
+        "url": "https://huggingface.co/datasets/allenai/multipref"
+      },
+      {
+        "label": "blog",
+        "url": "https://allenai.org/blog/hybrid-preferences"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf][code and data] Harsh Kohli, Sachin Kumar, Huan Sun, \"GroundCocoa: A Benchmark for Evaluating Compositional & Conditional Reasoning in Language Models\", 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2404.04237"
+      },
+      {
+        "label": "code and data",
+        "url": "https://osu-nlp-group.github.io/GroundCocoa/"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf][code][data] Sachin Kumar*, Chan Young Park*, Yulia Tsvetkov, Noah A. Smith, Hannaneh Hajishirzi, \"ComPO: Community Preferences for Language Model Personalization\", 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025). *=equal contribution.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2410.16027"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/allenai/compred"
+      },
+      {
+        "label": "data",
+        "url": "https://huggingface.co/datasets/allenai/compred"
+      }
+    ]
+  },
+  {
+    "text": "[2025][pdf][code][leaderboard] Nathan Lambert, Valentina Pyatkin, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi, \"RewardBench: Evaluating Reward Models for Language Modeling\", 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025) Findings.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2403.13787"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/allenai/reward-bench"
+      },
+      {
+        "label": "leaderboard",
+        "url": "https://huggingface.co/spaces/allenai/reward-bench"
+      }
+    ]
+  },
+  {
+    "text": "[2024][pdf][code][data][blog] Faeze Brahman*, Sachin Kumar*, Vidhisha Balachandran, Pradeep Dasigi, Valentina Pyatkin, Abhilasha Ravichander, Sarah Wiegreffe, Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi, \"The Art of Saying No: Contextual Noncompliance in Language Models\", Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS) 2024: Datasets and Benchmarks.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://www.arxiv.org/abs/2407.12043"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/allenai/noncompliance"
+      },
+      {
+        "label": "data",
+        "url": "https://huggingface.co/datasets/allenai/coconot"
+      },
+      {
+        "label": "blog",
+        "url": "https://blog.allenai.org/broadening-the-scope-of-noncompliance-when-and-how-ai-models-should-not-comply-with-user-requests-18b028c5b538"
+      }
+    ]
+  },
+  {
+    "text": "[2024][pdf][code] Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Valentin Hoffman, Tomasz Limisiewicz, Yulia Tsvetkov, Noah A. Smith, \"MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization\", Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS) 2024.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2407.08818"
+      }
+    ]
+  },
+  {
+    "text": "[2024][pdf][code] Liwei Jiang, Kavel Rao, Seungju Han, Allyson Ettinger, Faeze Brahman, Sachin Kumar, Niloofar Mireshghallah, Ximing Lu, Maarten Sap, Yejin Choi, Nouha Dziri, \"WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models\", Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS) 2024.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2406.18510"
+      }
+    ]
+  },
+  {
+    "text": "[2024][pdf][code] Luca Soldaini, Rodney Kinney, Akshita Bhagia, Dustin Schwenk, David Atkinson, Russell Authur, Ben Bogin, Khyathi Chandu, Jennifer Dumas, Yanai Elazar, Valentin Hofmann, Ananya Harsh Jha, Sachin Kumar, Li Lucy, Xinxi Lyu, Nathan Lambert, Ian Magnusson, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E. Peters, Abhilasha Ravichander, Kyle Richardson, Zejiang Shen, Emma Strubell, Nishant Subramani, Oyvind Tafjord, Pete Walsh, Luke Zettlemoyer, Noah A. Smith, Hannaneh Hajishirzi, Iz Beltagy, Dirk Groeneveld, Jesse Dodge, Kyle Lo, \"Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research\", 2024 Conference of the Association for Computational Linguistics (ACL 2024). Best Resource Paper Award.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2402.00159"
+      }
+    ]
+  },
+  {
+    "text": "[2024][pdf][code] YuHan Liu, Shangbin Feng, Xiaochuang Han, Vidhisha Balachandran, Chan Young Park, Sachin Kumar, Yulia Tsvetkov, \"What Constitutes a Faithful Summary? Preserving Author Perspectives in News Summarization\", 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2311.09741v1.pdf"
+      }
+    ]
+  },
+  {
+    "text": "[2024][pdf][code] Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov, Marjan Ghazvininejad, \"SSD-2: Scaling and Inference-time Fusion of Diffusion Language Models\", 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2305.14771"
+      }
+    ]
+  },
+  {
+    "text": "[2024][pdf][code] Sachin Kumar, Chan Young Park, Yulia Tsvetkov, \"Gen-Z: Generative Zero-Shot Text Classification with Contextualized Label Descriptions\", International Conference on Learning Representations (ICLR 2024).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2311.07115.pdf"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/Sachin19/generative-classification"
+      }
+    ]
+  },
+  {
+    "text": "[2023][pdf][code] Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David R. Mortensen, Noah A. Smith, Yulia Tsvetkov, \"Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models\", 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2305.13707"
+      }
+    ]
+  },
+  {
+    "text": "[2023][pdf][code] Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi and Yulia Tsvetkov, “Minding Language Models’ Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker”, 2023 Conference of the Association for Computational Linguistics (ACL 2023). Outstanding Paper Award",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2306.00924"
+      }
+    ]
+  },
+  {
+    "text": "[2023] [pdf] [code] Tianxing He, Jingyu Zhang, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass, Yulia Tsvetkov, \"On the Blind Spots of Model-Based Evaluation Metrics for Text Generation\", 2023 Conference of the Association for Computational Linguistics (ACL 2023).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2212.10020"
+      }
+    ]
+  },
+  {
+    "text": "[2023] [pdf] [code][demo] Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov, \"SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control\", 2023 Conference of the Association for Computational Linguistics (ACL 2023).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2210.17432"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/xhan77/ssd-lm"
+      },
+      {
+        "label": "demo",
+        "url": "https://colab.research.google.com/drive/1vNKqvzzJQp3k89QPuns5ibsq-VNC9wGN?usp=sharing"
+      }
+    ]
+  },
+  {
+    "text": "[2023][pdf] Leon Derczynski, Hannah Rose Kirk, Vidhisha Balachandran, Sachin Kumar, Yulia Tsvetkov, M. R. Leiser, Saif Mohammad, \"Assessing Language Model Deployment with Risk Cards\", preprint.",
+    "links": []
+  },
+  {
+    "text": "[2023] [pdf] Sachin Kumar*, Vidhisha Balachandran*, Lucille Njoo, Antonios Anastasopoulos, Yulia Tsvetkov, \"Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey\", 2023 Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2210.07700"
+      }
+    ]
+  },
+  {
+    "text": "[2022] [pdf] [code] Melanie Sclar, Peter West, Sachin Kumar, Yulia Tsvetkov and Yejin Choi, “Reference-Free Sentence Summarization with Sharper Controllability through Symbolic Knowledge Distillation”, 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2210.13800"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/msclar/referee"
+      }
+    ]
+  },
+  {
+    "text": "[2022] [pdf][code] Sachin Kumar, Biswajit Paria, Yulia Tsvetkov, “Gradient-based Constrained Sampling from Language Models”, 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2205.12558"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/Sachin19/mucoco/tree/sampling2/"
+      }
+    ]
+  },
+  {
+    "text": "[2021] [pdf][code] Sachin Kumar, Eric Malmi, Aliaksei Severyn, Yulia Tsvetkov. Controlled Text Generation as Continuous Optimization with Multiple Constraints. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS) 2021.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2108.01850"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/Sachin19/mucoco"
+      }
+    ]
+  },
+  {
+    "text": "[2021] [pdf] [code] Monisha Jegadeesan, Sachin Kumar, John Wieting, Yulia Tsvetkov. Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs. Multilingual Representation Learning Workshop at EMNLP 2021.",
+    "links": []
+  },
+  {
+    "text": "[2021] [pdf] [code] Sachin Kumar, Antonios Anastasopoulos, Shuly Wintner, Yulia Tsvetkov. Machine Translation into Low-Resource Language Varieties. In the proceedings of 2021 Conference on Association of Computational Linguistics (ACL).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2106.06797"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/Sachin19/seq2seq-con"
+      }
+    ]
+  },
+  {
+    "text": "[2021] [pdf] Lidia Kidane, Sachin Kumar, Yulia Tsvetkov. An Exploration of Data Augmentation Techniques for Improving English to Tigrinya Translation. The 2nd AfricaNLP Workshop at EACL 2021.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2103.16789"
+      }
+    ]
+  },
+  {
+    "text": "[2020] [pdf] Zi-Yi Dou, Sachin Kumar, Yulia Tsvetkov, A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards. The 4th Workshop on Neural Generation and Translation (ACL) 2020",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://www.aclweb.org/anthology/2020.ngt-1.7.pdf"
+      }
+    ]
+  },
+  {
+    "text": "[2019] [pdf] Gayatri Bhat, Sachin Kumar, Yulia Tsvetkov, A Margin-based Loss with Synthetic Negative Samples for Continuous-output Machine Translation, The 3rd Workshop on Neural Generation and Translation (EMNLP) 2019",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://www.aclweb.org/anthology/D19-5621.pdf"
+      }
+    ]
+  },
+  {
+    "text": "[2019] [pdf][code] Sachin Kumar, Shuly Wintner, Noah A. Smith, Yulia Tsvetkov, Topics to Avoid: Demoting Latent Confounds in Text Classification, 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/1909.00453"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/Sachin19/adversarial-classify"
+      }
+    ]
+  },
+  {
+    "text": "[2018] [pdf] [code] Sachin Kumar & Yulia Tsvetkov, Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs, 7th International Conference on Learning Representations (ICLR) 2019.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://openreview.net/forum?id=rJlDnoA5Y7"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/Sachin19/seq2seq-con"
+      }
+    ]
+  },
+  {
+    "text": "[2018] [pdf] Shreshtha Mundra*, Sachin Kumar*, Manjira Sinha, Sandya Mannarswamy, Mining & Summarizing E-petitions for Enhanced Understanding of Public Opinion, In Proceedings of the International Conference on Information and Knowledge Management (CIKM) 2018.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://dl.acm.org/citation.cfm?id=3269246"
+      }
+    ]
+  },
+  {
+    "text": "[2018] Sachin Kumar, Yulia Tsvetkov, Machine Translation with Continuous Outputs, ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models.",
+    "links": []
+  },
+  {
+    "text": "[2017] [pdf] Sachin Kumar, Soumen Chakrabarti, Shourya Roy. Earth Mover Distance Pooling over Siamese LSTMs for Automatic Short Answer Grading. In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI) 2017.",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://www.ijcai.org/proceedings/2017/0284.pdf"
+      }
+    ]
+  },
+  {
+    "text": "[2014] [pdf] Sachin Kumar, Vikas C. Raykar, and Priyanka Agrawal. Decisions under drift: Adapting binary decision thresholds to drifts in test distribution. In Proceedings of the 6th IBM Collaborative Academia Research Exchange Conference. ACM, New York, NY, USA, Article 17, 4 pages. DOI=http://dx.doi.org/10.1145/2662117.2662134",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "http://dx.doi.org/10.1145/2662117.2662134"
+      }
+    ]
+  }
+]
