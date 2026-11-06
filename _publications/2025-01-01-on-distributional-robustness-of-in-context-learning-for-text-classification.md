@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2025-01-01-on-distributional-robustness-of-in-context-learning-for-text-classification/"
 date: "2025-01-01"
 year: 2025
-publication_order: 22
+publication_order: 23
 authors: "Carolina Hatanpää, Noah A. Smith, Sachin Kumar"
 venue: "Second Workshop on Test-Time Adaptation: Putting Updates to the Test! @ICML 2025"
 citation: "Carolina Hatanpää, Noah A. Smith, Sachin Kumar. (2025). On Distributional Robustness of In-Context Learning for Text Classification. <i>Second Workshop on Test-Time Adaptation: Putting Updates to the Test! @ICML 2025</i>."

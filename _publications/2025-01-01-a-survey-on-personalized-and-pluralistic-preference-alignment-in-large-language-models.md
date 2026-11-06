@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2025-01-01-a-survey-on-personalized-and-pluralistic-preference-alignment-in-large-language-models/"
 date: "2025-01-01"
 year: 2025
-publication_order: 20
+publication_order: 22
 authors: "Zhouhang Xie, Junda Wu, Yiran Shen, Yu Xia, Xintong Li, Aaron Chang, Ryan Rossi, Sachin Kumar, Bodhisattwa Prasad Majumder, Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley"
 venue: "Conference on Language Modeling (COLM) 2025"
 citation: "Zhouhang Xie, Junda Wu, Yiran Shen, Yu Xia, Xintong Li, Aaron Chang, Ryan Rossi, Sachin Kumar, Bodhisattwa Prasad Majumder, Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley. (2025). A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models. <i>Conference on Language Modeling (COLM) 2025</i>."

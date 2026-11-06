@@ -4,12 +4,12 @@ collection: "publications"
 permalink: "/publication/2026-01-01-when-cases-get-rare-a-retrieval-benchmark-for-off-guideline-clinical-question-answering/"
 date: "2026-01-01"
 year: 2026
-publication_order: 8
+publication_order: 9
 authors: "Doeun Lee, Muge Zhang, Yi Yu, Ashish Manne, Stephen Koesters, Frank Wen, Brady Buchanan, Lynda Villagomez, Oluwatoba Moninuola, James Lim, Kathryn Tobin, Andrew Srisuwananukorn, Ping Zhang, Sachin Kumar"
-venue: "preprint"
-citation: "Doeun Lee, Muge Zhang, Yi Yu, Ashish Manne, Stephen Koesters, Frank Wen, Brady Buchanan, Lynda Villagomez, Oluwatoba Moninuola, James Lim, Kathryn Tobin, Andrew Srisuwananukorn, Ping Zhang, Sachin Kumar. (2026). When Cases Get Rare: A Retrieval Benchmark for Off-Guideline Clinical Question Answering. <i>preprint</i>."
-bibtex: "@misc{lee2026whencasesget,\n  title = {{When Cases Get Rare: A Retrieval Benchmark for Off-Guideline Clinical Question Answering}},\n  author = {Doeun Lee and Muge Zhang and Yi Yu and Ashish Manne and Stephen Koesters and Frank Wen and Brady Buchanan and Lynda Villagomez and Oluwatoba Moninuola and James Lim and Kathryn Tobin and Andrew Srisuwananukorn and Ping Zhang and Sachin Kumar},\n  year = {2026},\n  note = {Preprint},\n  eprint = {2605.21807},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2605.21807}\n}"
-links: [{"label": "pdf", "url": "https://arxiv.org/abs/2605.21807"}, {"label": "data", "url": "https://huggingface.co/datasets/leadoeun/OGCaReBench"}]
+venue: "ICML 2026 Workshop on Structured Data for Health (SD4H). Poster"
+citation: "Doeun Lee, Muge Zhang, Yi Yu, Ashish Manne, Stephen Koesters, Frank Wen, Brady Buchanan, Lynda Villagomez, Oluwatoba Moninuola, James Lim, Kathryn Tobin, Andrew Srisuwananukorn, Ping Zhang, Sachin Kumar. (2026). When Cases Get Rare: A Retrieval Benchmark for Off-Guideline Clinical Question Answering. <i>ICML 2026 Workshop on Structured Data for Health (SD4H). Poster</i>."
+bibtex: "@inproceedings{\nlee2026when,\ntitle={When Cases Get Rare: A Retrieval Benchmark for Off-Guideline Clinical Question Answering},\nauthor={Doeun Lee and Muge Zhang and Yi Yu and Ashish Manne and Stephen Koesters and Frank Wen and Brady Buchanan and Lynda Villagomez and Oluwatoba Moninuola and James Lim and Kathryn Tobin and Andrew Srisuwananukorn and Ping Zhang and Sachin Kumar},\nbooktitle={ICML 2026 Workshop on Structured Data for Health},\nyear={2026},\nurl={https://openreview.net/forum?id=eAx7vA0t99}\n}"
+links: [{"label": "pdf", "url": "https://arxiv.org/abs/2605.21807"}, {"label": "data", "url": "https://huggingface.co/datasets/leadoeun/OGCaReBench"}, {"label": "workshop", "url": "https://openreview.net/forum?id=eAx7vA0t99"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf][code][data] Doeun Lee, Muge Zhang, Yi Yu, Ashish Manne, Stephen Koesters, Frank Wen, Brady Buchanan, Lynda Villagomez, Oluwatoba Moninuola, James Lim, Kathryn Tobin, Andrew Srisuwananukorn, Ping Zhang, Sachin Kumar, \"When Cases Get Rare: A Retrieval Benchmark for Off-Guideline Clinical Question Answering\", preprint."
 share: false

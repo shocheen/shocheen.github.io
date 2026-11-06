@@ -2,30 +2,299 @@
   "2026-01-01-sounds-like-youre-not-from-around-here-accent-bias-in-audio-language-models": {
     "fields": {
       "title": "The Cost of Sounding Different: Accent Bias in Audio Language Models",
-      "venue": "2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Outstanding Paper Award 🏆"
+      "venue": "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Outstanding Paper Award 🏆",
+      "year": 2026,
+      "authors": "Aruna Srivastava, Orevaoghene Ahia, Li Lucy, Ashley Christendat, Sameep Chattopadhyay, Farhan Samir, Tejumade Afonja, Valentin Hofmann, Sachin Kumar, Noah A. Smith, Yulia Tsvetkov",
+      "bibtex": "@inproceedings{2026-emnlp-main-1612,\n  title = {{The Cost of Sounding Different: Accent Bias in Audio Language Models}},\n  author = {Srivastava, Aruna and Ahia, Orevaoghene and Lucy, Li and Christendat, Ashley and Chattopadhyay, Sameep and Samir, Farhan and Afonja, Tejumade and Hofmann, Valentin and Kumar, Sachin and Smith, Noah A. and Tsvetkov, Yulia},\n  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},\n  year = {2026},\n  pages = {36660--36687},\n  url = {https://aclanthology.org/2026.emnlp-main.1612/},\n  doi = {10.18653/2026.emnlp-main.1612}\n}"
     },
-    "additional_links": [{"label": "pdf", "url": "https://aclanthology.org/2026.emnlp-main.1612.pdf"}],
-    "sources": ["https://aclanthology.org/2026.emnlp-main.1612/"]
+    "additional_links": [
+      {
+        "label": "pdf",
+        "url": "https://aclanthology.org/2026.emnlp-main.1612.pdf"
+      },
+      {
+        "label": "proceedings",
+        "url": "https://aclanthology.org/2026.emnlp-main.1612/"
+      }
+    ],
+    "sources": [
+      "https://aclanthology.org/2026.emnlp-main.1612/"
+    ]
   },
   "2026-01-01-connecting-the-dots-enduring-performance-gaps-in-asr-systems-between-standard-and-minority-english-varieties": {
     "fields": {
       "authors": "Alexander Metzger, Aruna Srivastava, Ruslan Mukhamedvaleev, Eunjung Yeo, Syed Ishtiaque Ahmed, Nina Markl, Sachin Kumar, Farhan Samir"
     },
     "additional_links": [
-      {"label": "pdf", "url": "https://arxiv.org/abs/2610.17761"},
-      {"label": "code and data", "url": "https://github.com/smfsamir/longitudinal-asr-eval"}
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2610.17761"
+      },
+      {
+        "label": "code and data",
+        "url": "https://github.com/smfsamir/longitudinal-asr-eval"
+      }
     ],
-    "sources": ["https://arxiv.org/abs/2610.17761"]
+    "sources": [
+      "https://arxiv.org/abs/2610.17761"
+    ]
   },
   "2021-01-01-improving-the-diversity-of-unsupervised-paraphrasing-with-embedding-outputs": {
     "additional_links": [
-      {"label": "pdf", "url": "https://aclanthology.org/2021.mrl-1.15.pdf"},
-      {"label": "code", "url": "https://github.com/monisha-jega/paraphrasing_embedding_outputs"}
+      {
+        "label": "pdf",
+        "url": "https://aclanthology.org/2021.mrl-1.15.pdf"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/monisha-jega/paraphrasing_embedding_outputs"
+      }
     ],
-    "sources": ["https://aclanthology.org/2021.mrl-1.15/", "https://aclanthology.org/2021.mrl-1.15.pdf"]
+    "sources": [
+      "https://aclanthology.org/2021.mrl-1.15/",
+      "https://aclanthology.org/2021.mrl-1.15.pdf"
+    ]
   },
   "2023-01-01-assessing-language-model-deployment-with-risk-cards": {
-    "additional_links": [{"label": "pdf", "url": "https://arxiv.org/abs/2303.18190"}],
-    "sources": ["https://arxiv.org/abs/2303.18190", "https://sites.google.com/view/sachinkumar"]
+    "additional_links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/abs/2303.18190"
+      }
+    ],
+    "sources": [
+      "https://arxiv.org/abs/2303.18190",
+      "https://sites.google.com/view/sachinkumar"
+    ],
+    "fields": {
+      "authors": "Leon Derczynski, Hannah Rose Kirk, Vidhisha Balachandran, Sachin Kumar, Yulia Tsvetkov, M. R. Leiser, Saif Mohammad"
+    }
+  },
+  "2026-01-01-one-form-to-transfer-them-all-pretraining-multilingual-language-models-beyond-native-orthography": {
+    "fields": {
+      "year": 2026,
+      "title": "One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography",
+      "authors": "Muge Zhang, Aaron Jencks, Krishna Badikela, Yulia Tsvetkov, Sachin Kumar",
+      "venue": "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)",
+      "bibtex": "@inproceedings{2026-emnlp-main-1838,\n  title = {{One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography}},\n  author = {Zhang, Muge and Jencks, Aaron and Badikela, Krishna and Tsvetkov, Yulia and Kumar, Sachin},\n  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},\n  year = {2026},\n  pages = {41808--41824},\n  url = {https://aclanthology.org/2026.emnlp-main.1838/},\n  doi = {10.18653/2026.emnlp-main.1838}\n}"
+    },
+    "sources": [
+      "https://aclanthology.org/2026.emnlp-main.1838/"
+    ],
+    "additional_links": [
+      {
+        "label": "proceedings",
+        "url": "https://aclanthology.org/2026.emnlp-main.1838/"
+      }
+    ]
+  },
+  "2026-01-01-seeing-through-conflicts-improving-instruction-hierarchy-alignment-in-vision-language-models": {
+    "fields": {
+      "year": 2026,
+      "title": "Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models",
+      "authors": "Nicholas Sansoterra, Zishuo Zheng, Sachin Kumar",
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026",
+      "bibtex": "@inproceedings{2026-findings-emnlp-1451,\n  title = {{Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models}},\n  author = {Sansoterra, Nicholas and Zheng, Zishuo and Kumar, Sachin},\n  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},\n  year = {2026},\n  pages = {30912--30927},\n  url = {https://aclanthology.org/2026.findings-emnlp.1451/},\n  doi = {10.18653/2026.findings-emnlp.1451}\n}"
+    },
+    "sources": [
+      "https://aclanthology.org/2026.findings-emnlp.1451/"
+    ],
+    "additional_links": [
+      {
+        "label": "proceedings",
+        "url": "https://aclanthology.org/2026.findings-emnlp.1451/"
+      }
+    ]
+  },
+  "2025-01-01-flexitokens-flexible-tokenization-for-evolving-language-models": {
+    "fields": {
+      "year": 2026,
+      "title": "FLEXITOKENS: Flexible Tokenization for Evolving Language Models",
+      "authors": "Abraham Toluwase Owodunni, Orevaoghene Ahia, Sachin Kumar",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2026; also presented at Tokenization Workshop @ICML 2025",
+      "bibtex": "@inproceedings{2026-findings-acl-848,\n  title = {{FLEXITOKENS: Flexible Tokenization for Evolving Language Models}},\n  author = {Owodunni, Abraham Toluwase and Ahia, Orevaoghene and Kumar, Sachin},\n  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},\n  year = {2026},\n  pages = {17170--17190},\n  url = {https://aclanthology.org/2026.findings-acl.848/},\n  doi = {10.18653/v1/2026.findings-acl.848}\n}"
+    },
+    "sources": [
+      "https://aclanthology.org/2026.findings-acl.848/"
+    ],
+    "additional_links": [
+      {
+        "label": "proceedings",
+        "url": "https://aclanthology.org/2026.findings-acl.848/"
+      }
+    ]
+  },
+  "2025-01-01-reasoning-up-the-instruction-ladder-for-controllable-language-models": {
+    "fields": {
+      "year": 2026,
+      "title": "Reasoning Up the Instruction Ladder for Controllable Language Models",
+      "authors": "Zishuo Zheng, Vidhisha Balachandran, Chan Young Park, Faeze Brahman, Sachin Kumar",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2026; also presented at Foundations of Reasoning in Language Models (FoRLM) Workshop at NeurIPS 2025",
+      "bibtex": "@inproceedings{2026-findings-acl-1960,\n  title = {{Reasoning Up the Instruction Ladder for Controllable Language Models}},\n  author = {Zheng, Zishuo and Balachandran, Vidhisha and Park, Chan Young and Brahman, Faeze and Kumar, Sachin},\n  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},\n  year = {2026},\n  pages = {39332--39354},\n  url = {https://aclanthology.org/2026.findings-acl.1960/},\n  doi = {10.18653/v1/2026.findings-acl.1960}\n}"
+    },
+    "sources": [
+      "https://aclanthology.org/2026.findings-acl.1960/"
+    ],
+    "additional_links": [
+      {
+        "label": "proceedings",
+        "url": "https://aclanthology.org/2026.findings-acl.1960/"
+      }
+    ]
+  },
+  "2026-01-01-leveraging-pretrained-language-models-as-energy-functions-for-glauber-dynamics-text-diffusion": {
+    "fields": {
+      "year": 2026,
+      "title": "Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion",
+      "authors": "Tarun Kathuria, Sachin Kumar",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2026",
+      "bibtex": "@inproceedings{2026-findings-acl-2117,\n  title = {{Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion}},\n  author = {Kathuria, Tarun and Kumar, Sachin},\n  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},\n  year = {2026},\n  pages = {42625--42643},\n  url = {https://aclanthology.org/2026.findings-acl.2117/},\n  doi = {10.18653/v1/2026.findings-acl.2117}\n}"
+    },
+    "sources": [
+      "https://aclanthology.org/2026.findings-acl.2117/"
+    ],
+    "additional_links": [
+      {
+        "label": "proceedings",
+        "url": "https://aclanthology.org/2026.findings-acl.2117/"
+      }
+    ]
+  },
+  "2026-01-01-clinicaltrialshub-bridging-registries-and-literature-for-comprehensive-clinical-trial-access": {
+    "fields": {
+      "year": 2026,
+      "title": "ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access",
+      "authors": "Jiwoo Park, Ruoqi Liu, Avani Jagdale, Andrew Srisuwananukorn, Jing Zhao, Lang Li, Ping Zhang, Sachin Kumar",
+      "venue": "EACL 2026: System Demonstrations",
+      "bibtex": "@inproceedings{2026-eacl-demo-26,\n  title = {{ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access}},\n  author = {Park, Jiwoo and Liu, Ruoqi and Jagdale, Avani and Srisuwananukorn, Andrew and Zhao, Jing and Li, Lang and Zhang, Ping and Kumar, Sachin},\n  booktitle = {Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 3: System Demonstrations)},\n  year = {2026},\n  pages = {359--396},\n  url = {https://aclanthology.org/2026.eacl-demo.26/},\n  doi = {10.18653/v1/2026.eacl-demo.26}\n}"
+    },
+    "sources": [
+      "https://aclanthology.org/2026.eacl-demo.26/"
+    ],
+    "additional_links": [
+      {
+        "label": "proceedings",
+        "url": "https://aclanthology.org/2026.eacl-demo.26/"
+      }
+    ]
+  },
+  "2025-01-01-tess-2-a-large-scale-generalist-diffusion-language-model": {
+    "fields": {
+      "year": 2025,
+      "title": "TESS 2: A Large-Scale Generalist Diffusion Language Model",
+      "authors": "Jaesung Tae*, Hamish Ivison*, Sachin Kumar, Arman Cohan",
+      "venue": "ACL 2025. Oral (top 8%). *=equal contribution",
+      "bibtex": "@inproceedings{2025-acl-long-1029,\n  title = {{TESS 2: A Large-Scale Generalist Diffusion Language Model}},\n  author = {Tae, Jaesung and Ivison, Hamish and Kumar, Sachin and Cohan, Arman},\n  booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},\n  year = {2025},\n  pages = {21171--21188},\n  url = {https://aclanthology.org/2025.acl-long.1029/},\n  doi = {10.18653/v1/2025.acl-long.1029}\n}"
+    },
+    "sources": [
+      "https://aclanthology.org/2025.acl-long.1029/"
+    ],
+    "additional_links": [
+      {
+        "label": "proceedings",
+        "url": "https://aclanthology.org/2025.acl-long.1029/"
+      }
+    ]
+  },
+  "2026-01-01-process-oriented-evaluation-of-ai-assisted-scientific-writing": {
+    "fields": {
+      "year": 2026,
+      "venue": "Third Conference on Language Modeling (COLM 2026)",
+      "bibtex": "@inproceedings{\nsilva2026processoriented,\ntitle={Process-Oriented Evaluation of {AI}-Assisted Scientific Writing},\nauthor={Patrick Queiroz Da Silva and Sanchaita Hazra and Doeun Lee and Sachin Kumar and Bodhisattwa Prasad Majumder},\nbooktitle={Third Conference on Language Modeling},\nyear={2026},\nurl={https://openreview.net/forum?id=c6dSFfvY7I}\n}"
+    },
+    "sources": [
+      "https://openreview.net/forum?id=c6dSFfvY7I"
+    ],
+    "additional_links": [
+      {
+        "label": "proceedings",
+        "url": "https://openreview.net/forum?id=c6dSFfvY7I"
+      }
+    ]
+  },
+  "2026-01-01-when-cases-get-rare-a-retrieval-benchmark-for-off-guideline-clinical-question-answering": {
+    "fields": {
+      "venue": "ICML 2026 Workshop on Structured Data for Health (SD4H). Poster",
+      "bibtex": "@inproceedings{\nlee2026when,\ntitle={When Cases Get Rare: A Retrieval Benchmark for Off-Guideline Clinical Question Answering},\nauthor={Doeun Lee and Muge Zhang and Yi Yu and Ashish Manne and Stephen Koesters and Frank Wen and Brady Buchanan and Lynda Villagomez and Oluwatoba Moninuola and James Lim and Kathryn Tobin and Andrew Srisuwananukorn and Ping Zhang and Sachin Kumar},\nbooktitle={ICML 2026 Workshop on Structured Data for Health},\nyear={2026},\nurl={https://openreview.net/forum?id=eAx7vA0t99}\n}"
+    },
+    "sources": [
+      "https://openreview.net/forum?id=eAx7vA0t99"
+    ],
+    "additional_links": [
+      {
+        "label": "workshop",
+        "url": "https://openreview.net/forum?id=eAx7vA0t99"
+      }
+    ]
+  },
+  "2025-01-01-continually-adding-new-languages-to-multilingual-language-models": {
+    "fields": {
+      "year": 2026,
+      "venue": "Transactions on Machine Learning Research (TMLR), 2026; also presented at Multilingual and Equitable Language Technologies (MELT) Workshop @COLM 2025",
+      "bibtex": "@article{\nowodunni2026continually,\ntitle={Continually Adding New Languages to Multilingual Language Models},\nauthor={Abraham Toluwase Owodunni and Sachin Kumar},\njournal={Transactions on Machine Learning Research},\nissn={2835-8856},\nyear={2026},\nurl={https://openreview.net/forum?id=HE84ER1BNL},\nnote={}\n}"
+    },
+    "sources": [
+      "https://openreview.net/forum?id=HE84ER1BNL"
+    ],
+    "additional_links": [
+      {
+        "label": "journal",
+        "url": "https://openreview.net/forum?id=HE84ER1BNL"
+      }
+    ]
+  },
+  "2026-01-01-a-unified-definition-of-hallucination-or-it-s-the-world-model-stupid": {
+    "fields": {
+      "title": "Position: We Need A Unified Definition of Hallucination (It’s The World Model, Stupid!)",
+      "authors": "Emmy Liu, Varun Prashant Gangal, Chelsea Zou, Michael Yu, Xiaoqi Huang, Alex Chang, Zhuofu Tao, Karanpartap Singh, Sachin Kumar, Steven Y. Feng",
+      "venue": "International Conference on Machine Learning (ICML 2026), Position Paper Track",
+      "bibtex": "@InProceedings{pmlr-v306-liu26gu,\n  title = \t {Position: We Need A Unified Definition of Hallucination ({I}t’s The World Model, Stupid!)},\n  author =       {Liu, Emmy and Gangal, Varun Prashant and Zou, Chelsea and Yu, Michael and Huang, Xiaoqi and Chang, Alex and Tao, Zhuofu and Singh, Karanpartap and Kumar, Sachin and Feng, Steven Y.},\n  booktitle = \t {Proceedings of the 43rd International Conference on Machine Learning},\n  pages = \t {171298--171314},\n  year = \t {2026},\n  editor = \t {Zhang, Tong and Dudik, Miroslav and Jaggi, Martin and Agarwal, Alekh and Li, Sharon and Schuurmans, Dale and Zhu, Jerry and Berkenkamp, Felix and Dong, Hanze and Bietti, Alberto},\n  volume = \t {306},\n  series = \t {Proceedings of Machine Learning Research},\n  month = \t {06--11 Jul},\n  publisher =    {PMLR},\n  pdf = \t {https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26gu/liu26gu.pdf},\n  url = \t {https://proceedings.mlr.press/v306/liu26gu.html}\n}"
+    },
+    "sources": [
+      "https://proceedings.mlr.press/v306/liu26gu.html"
+    ],
+    "additional_links": [
+      {
+        "label": "proceedings",
+        "url": "https://proceedings.mlr.press/v306/liu26gu.html"
+      }
+    ]
+  },
+  "2026-01-01-halluworld-a-controlled-benchmark-for-hallucination-via-reference-world-models": {
+    "fields": {
+      "venue": "NeurIPS 2026, Evaluations and Datasets Track. To appear"
+    },
+    "sources": [
+      "https://neurips.cc/virtual/2026/poster/139204",
+      "https://arxiv.org/abs/2605.19341",
+      "https://nightingal3.github.io/publications/"
+    ],
+    "additional_links": [
+      {
+        "label": "conference",
+        "url": "https://neurips.cc/virtual/2026/poster/139204"
+      },
+      {
+        "label": "code and data",
+        "url": "https://github.com/DegenAI-Labs/HalluWorld"
+      }
+    ]
+  },
+  "2018-01-01-von-mises-fisher-loss-for-training-sequence-to-sequence-models-with-continuous-outputs": {
+    "fields": {
+      "year": 2019
+    },
+    "sources": [
+      "https://openreview.net/forum?id=rJlDnoA5Y7"
+    ],
+    "additional_links": []
+  },
+  "2024-01-01-magnet-improving-the-multilingual-fairness-of-language-models-with-adaptive-gradient-based-tokenization": {
+    "fields": {
+      "authors": "Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Valentin Hofmann, Tomasz Limisiewicz, Yulia Tsvetkov, Noah A. Smith"
+    },
+    "sources": [
+      "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5572bc595de865c1450868fd5391e9c5-Abstract-Conference.html"
+    ]
   }
 }

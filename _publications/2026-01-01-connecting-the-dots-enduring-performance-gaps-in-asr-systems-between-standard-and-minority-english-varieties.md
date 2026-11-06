@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2026-01-01-connecting-the-dots-enduring-performance-gaps-in-asr-systems-between-standard-and-minority-english-varieties/"
 date: "2026-01-01"
 year: 2026
-publication_order: 2
+publication_order: 3
 authors: "Alexander Metzger, Aruna Srivastava, Ruslan Mukhamedvaleev, Eunjung Yeo, Syed Ishtiaque Ahmed, Nina Markl, Sachin Kumar, Farhan Samir"
 venue: "2026 IEEE Spoken Language Technology (SLT 2026). To Appear"
 citation: "Alexander Metzger, Aruna Srivastava, Ruslan Mukhamedvaleev, Eunjung Yeo, Syed Ishtiaque Ahmed, Nina Markl, Sachin Kumar, Farhan Samir. (2026). Connecting the Dots: Enduring Performance Gaps in ASR Systems Between Standard and Minority English Varieties. <i>2026 IEEE Spoken Language Technology (SLT 2026). To Appear</i>."

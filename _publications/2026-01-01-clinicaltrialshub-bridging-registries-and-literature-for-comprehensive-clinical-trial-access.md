@@ -4,12 +4,12 @@ collection: "publications"
 permalink: "/publication/2026-01-01-clinicaltrialshub-bridging-registries-and-literature-for-comprehensive-clinical-trial-access/"
 date: "2026-01-01"
 year: 2026
-publication_order: 12
+publication_order: 13
 authors: "Jiwoo Park, Ruoqi Liu, Avani Jagdale, Andrew Srisuwananukorn, Jing Zhao, Lang Li, Ping Zhang, Sachin Kumar"
-venue: "The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 System Demonstration)"
-citation: "Jiwoo Park, Ruoqi Liu, Avani Jagdale, Andrew Srisuwananukorn, Jing Zhao, Lang Li, Ping Zhang, Sachin Kumar. (2026). ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access. <i>The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 System Demonstration)</i>."
-bibtex: "@inproceedings{park2026clinicaltrialshubbridgingregistries,\n  title = {{ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access}},\n  author = {Jiwoo Park and Ruoqi Liu and Avani Jagdale and Andrew Srisuwananukorn and Jing Zhao and Lang Li and Ping Zhang and Sachin Kumar},\n  year = {2026},\n  booktitle = {The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 System Demonstration)},\n  eprint = {2512.08193},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2512.08193}\n}"
-links: [{"label": "pdf", "url": "https://arxiv.org/abs/2512.08193"}, {"label": "demo", "url": "https://cth-frontend-103266204202.us-central1.run.app/"}, {"label": "code", "url": "https://github.com/jiwoo-jus/clinical-trials-hub"}]
+venue: "EACL 2026: System Demonstrations"
+citation: "Jiwoo Park, Ruoqi Liu, Avani Jagdale, Andrew Srisuwananukorn, Jing Zhao, Lang Li, Ping Zhang, Sachin Kumar. (2026). ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access. <i>EACL 2026: System Demonstrations</i>."
+bibtex: "@inproceedings{2026-eacl-demo-26,\n  title = {{ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access}},\n  author = {Park, Jiwoo and Liu, Ruoqi and Jagdale, Avani and Srisuwananukorn, Andrew and Zhao, Jing and Li, Lang and Zhang, Ping and Kumar, Sachin},\n  booktitle = {Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 3: System Demonstrations)},\n  year = {2026},\n  pages = {359--396},\n  url = {https://aclanthology.org/2026.eacl-demo.26/},\n  doi = {10.18653/v1/2026.eacl-demo.26}\n}"
+links: [{"label": "pdf", "url": "https://arxiv.org/abs/2512.08193"}, {"label": "demo", "url": "https://cth-frontend-103266204202.us-central1.run.app/"}, {"label": "code", "url": "https://github.com/jiwoo-jus/clinical-trials-hub"}, {"label": "proceedings", "url": "https://aclanthology.org/2026.eacl-demo.26/"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf][demo][code] Jiwoo Park, Ruoqi Liu, Avani Jagdale, Andrew Srisuwananukorn, Jing Zhao, Lang Li, Ping Zhang, Sachin Kumar, \"ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access\", The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 System Demonstration)."
 share: false

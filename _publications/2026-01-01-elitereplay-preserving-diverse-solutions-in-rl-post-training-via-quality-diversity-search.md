@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2026-01-01-elitereplay-preserving-diverse-solutions-in-rl-post-training-via-quality-diversity-search/"
 date: "2026-01-01"
 year: 2026
-publication_order: -1
+publication_order: 0
 authors: "Hanane Nour Moussa, Doeun Lee, Sachin Kumar"
 venue: "preprint"
 citation: "Hanane Nour Moussa, Doeun Lee, Sachin Kumar. (2026). EliteReplay: Preserving Diverse Solutions in RL Post-Training via Quality-Diversity Search. <i>preprint</i>."

@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2024-01-01-wildteaming-at-scale-from-in-the-wild-jailbreaks-to-adversarially-safer-language-models/"
 date: "2024-01-01"
 year: 2024
-publication_order: 31
+publication_order: 32
 authors: "Liwei Jiang, Kavel Rao, Seungju Han, Allyson Ettinger, Faeze Brahman, Sachin Kumar, Niloofar Mireshghallah, Ximing Lu, Maarten Sap, Yejin Choi, Nouha Dziri"
 venue: "Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS) 2024"
 citation: "Liwei Jiang, Kavel Rao, Seungju Han, Allyson Ettinger, Faeze Brahman, Sachin Kumar, Niloofar Mireshghallah, Ximing Lu, Maarten Sap, Yejin Choi, Nouha Dziri. (2024). WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models. <i>Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS) 2024</i>."

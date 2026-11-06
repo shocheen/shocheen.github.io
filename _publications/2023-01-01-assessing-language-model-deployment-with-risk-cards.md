@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2023-01-01-assessing-language-model-deployment-with-risk-cards/"
 date: "2023-01-01"
 year: 2023
-publication_order: 40
+publication_order: 41
 authors: "Leon Derczynski, Hannah Rose Kirk, Vidhisha Balachandran, Sachin Kumar, Yulia Tsvetkov, M. R. Leiser, Saif Mohammad"
 venue: "preprint"
 citation: "Leon Derczynski, Hannah Rose Kirk, Vidhisha Balachandran, Sachin Kumar, Yulia Tsvetkov, M. R. Leiser, Saif Mohammad. (2023). Assessing Language Model Deployment with Risk Cards. <i>preprint</i>."

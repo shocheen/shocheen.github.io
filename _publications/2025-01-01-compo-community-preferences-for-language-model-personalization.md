@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2025-01-01-compo-community-preferences-for-language-model-personalization/"
 date: "2025-01-01"
 year: 2025
-publication_order: 27
+publication_order: 28
 authors: "Sachin Kumar*, Chan Young Park*, Yulia Tsvetkov, Noah A. Smith, Hannaneh Hajishirzi"
 venue: "2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025). *=equal contribution"
 citation: "Sachin Kumar*, Chan Young Park*, Yulia Tsvetkov, Noah A. Smith, Hannaneh Hajishirzi. (2025). ComPO: Community Preferences for Language Model Personalization. <i>2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025). *=equal contribution</i>."

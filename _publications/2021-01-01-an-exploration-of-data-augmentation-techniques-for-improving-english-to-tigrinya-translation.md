@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2021-01-01-an-exploration-of-data-augmentation-techniques-for-improving-english-to-tigrinya-translation/"
 date: "2021-01-01"
 year: 2021
-publication_order: 47
+publication_order: 48
 authors: "Lidia Kidane, Sachin Kumar, Yulia Tsvetkov"
 venue: "The 2nd AfricaNLP Workshop at EACL 2021"
 citation: "Lidia Kidane, Sachin Kumar, Yulia Tsvetkov. (2021). An Exploration of Data Augmentation Techniques for Improving English to Tigrinya Translation. <i>The 2nd AfricaNLP Workshop at EACL 2021</i>."

@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2023-01-01-language-generation-models-can-cause-harm-so-what-can-we-do-about-it-an-actionable-survey/"
 date: "2023-01-01"
 year: 2023
-publication_order: 41
+publication_order: 42
 authors: "Sachin Kumar*, Vidhisha Balachandran*, Lucille Njoo, Antonios Anastasopoulos, Yulia Tsvetkov"
 venue: "2023 Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)"
 citation: "Sachin Kumar*, Vidhisha Balachandran*, Lucille Njoo, Antonios Anastasopoulos, Yulia Tsvetkov. (2023). Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey. <i>2023 Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)</i>."

@@ -4,12 +4,12 @@ collection: "publications"
 permalink: "/publication/2026-01-01-sounds-like-youre-not-from-around-here-accent-bias-in-audio-language-models/"
 date: "2026-01-01"
 year: 2026
-publication_order: 5
+publication_order: 6
 authors: "Aruna Srivastava, Orevaoghene Ahia, Li Lucy, Ashley Christendat, Sameep Chattopadhyay, Farhan Samir, Tejumade Afonja, Valentin Hofmann, Sachin Kumar, Noah A. Smith, Yulia Tsvetkov"
-venue: "2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Outstanding Paper Award 🏆"
-citation: "Aruna Srivastava, Orevaoghene Ahia, Li Lucy, Ashley Christendat, Sameep Chattopadhyay, Farhan Samir, Tejumade Afonja, Valentin Hofmann, Sachin Kumar, Noah A. Smith, Yulia Tsvetkov. (2026). The Cost of Sounding Different: Accent Bias in Audio Language Models. <i>2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Outstanding Paper Award 🏆</i>."
-bibtex: "@inproceedings{srivastava2026soundslikeyoure,\n  title = {{The Cost of Sounding Different: Accent Bias in Audio Language Models}},\n  author = {Aruna Srivastava and Orevaoghene Ahia and Li Lucy and Ashley Christendat and Sameep Chattopadhyay and Farhan Samir and Tejumade Afonja and Valentin Hofmann and Sachin Kumar and Noah A. Smith and Yulia Tsvetkov},\n  year = {2026},\n  booktitle = {2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)},\n  url = {https://aclanthology.org/2026.emnlp-main.1612/}\n}"
-links: [{"label": "pdf", "url": "https://aclanthology.org/2026.emnlp-main.1612.pdf"}]
+venue: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Outstanding Paper Award 🏆"
+citation: "Aruna Srivastava, Orevaoghene Ahia, Li Lucy, Ashley Christendat, Sameep Chattopadhyay, Farhan Samir, Tejumade Afonja, Valentin Hofmann, Sachin Kumar, Noah A. Smith, Yulia Tsvetkov. (2026). The Cost of Sounding Different: Accent Bias in Audio Language Models. <i>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Outstanding Paper Award 🏆</i>."
+bibtex: "@inproceedings{2026-emnlp-main-1612,\n  title = {{The Cost of Sounding Different: Accent Bias in Audio Language Models}},\n  author = {Srivastava, Aruna and Ahia, Orevaoghene and Lucy, Li and Christendat, Ashley and Chattopadhyay, Sameep and Samir, Farhan and Afonja, Tejumade and Hofmann, Valentin and Kumar, Sachin and Smith, Noah A. and Tsvetkov, Yulia},\n  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},\n  year = {2026},\n  pages = {36660--36687},\n  url = {https://aclanthology.org/2026.emnlp-main.1612/},\n  doi = {10.18653/2026.emnlp-main.1612}\n}"
+links: [{"label": "pdf", "url": "https://aclanthology.org/2026.emnlp-main.1612.pdf"}, {"label": "proceedings", "url": "https://aclanthology.org/2026.emnlp-main.1612/"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf][code] Aruna Srivastava, Orevaoghene Ahia, Li Lucy, Ashley Christendat, Sameep Chattopadhyay, Farhan Samir, Tejumade Afonja, Valentin Hofmann, Sachin Kumar, Noah A. Smith, Yulia Tsvetkov, \"Sounds Like You’re Not From Around Here: Accent Bias in Audio Language Models.\" 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026). Oustanding Paper Award 🏆."
 share: false

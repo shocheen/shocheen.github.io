@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2025-01-01-groundcocoa-a-benchmark-for-evaluating-compositional-conditional-reasoning-in-language-models/"
 date: "2025-01-01"
 year: 2025
-publication_order: 26
+publication_order: 27
 authors: "Harsh Kohli, Sachin Kumar, Huan Sun"
 venue: "2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)"
 citation: "Harsh Kohli, Sachin Kumar, Huan Sun. (2025). GroundCocoa: A Benchmark for Evaluating Compositional &amp; Conditional Reasoning in Language Models. <i>2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)</i>."

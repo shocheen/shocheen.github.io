@@ -17,6 +17,8 @@ class Page(HTMLParser):
         self.text = []
         self.articles = 0
         self.bibtex_entries = []
+        self.year_headings = []
+        self.in_year_heading = False
         self.code = None
         self.feed(path.read_text())
 
@@ -30,8 +32,12 @@ class Page(HTMLParser):
             self.articles += 1
         elif tag == "code":
             self.code = []
+        elif tag == "h2" and attrs.get("class") == "publication-year":
+            self.in_year_heading = True
 
     def handle_endtag(self, tag):
+        if tag == "h2":
+            self.in_year_heading = False
         if tag == "code" and self.code is not None:
             entry = "".join(self.code)
             if entry.startswith("@"):
@@ -40,6 +46,8 @@ class Page(HTMLParser):
 
     def handle_data(self, data):
         self.text.append(data)
+        if self.in_year_heading and data.strip():
+            self.year_headings.append(int(data.strip()))
         if self.code is not None:
             self.code.append(data)
 
@@ -78,6 +86,8 @@ def main():
     if args.site:
         archive = Page(args.site / "publications/index.html")
         assert archive.articles == len(records), "Archive has missing or duplicate papers"
+        assert archive.year_headings == sorted({record["year"] for record in records}, reverse=True), \
+            "Publication years are repeated, missing, or out of order"
         assert '<h2 class="publication-year">' not in "".join(archive.text), "Year heading rendered as source code"
         assert all(link["url"] in archive.links for record in records for link in record["links"])
         assert len(archive.bibtex_entries) == len(records), "Archive BibTeX count differs from paper count"

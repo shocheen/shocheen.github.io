@@ -26,7 +26,11 @@ bundle exec jekyll build
 ```
 
 Each record contains separate `title`, `authors`, `year`, `venue`, and `links`
-fields. Resource labels retain their meaning: code is never stored as slides.
+fields. `year` is the verified publication year when a final record is available,
+and the preprint year otherwise. The archive groups papers by this year, then
+uses the original `order` within each year. IDs and permalinks remain stable
+when a paper is accepted in a later year. Resource labels retain their meaning:
+code is never stored as slides.
 The generator writes the individual `_publications` documents. Their URLs remain
 stable; six former malformed author-name documents redirect to the correct papers.
 
@@ -73,9 +77,10 @@ this selection does not change the full publications archive.
 - Recovered paper links for Connecting the Dots, the 2021 paraphrasing paper, and
   Risk Cards, plus code links for Connecting the Dots and paraphrasing.
 - Corrected Alexander Metzger's name against the paper's arXiv record.
-- Source year groupings are preserved. In particular, the vMF paper is listed
-  under 2018 on the Google Site, while its venue is ICLR 2019. Several papers
-  first listed in 2025 have 2026 venues. These are not silently re-dated.
+- Original source citations and import order are preserved. Verified final
+  publication years are recorded as reviewed overrides: vMF is grouped under
+  ICLR 2019, and FlexiTokens, instruction-hierarchy reasoning, and LayRA under
+  their 2026 publication venues.
 - Machine Translation with Continuous Outputs (2018 workshop) has no resource URL
   on the source site. Its citation is retained without an invented link.
 - Alumni appear as a text list. Current students retain their portraits; Muge
@@ -83,6 +88,27 @@ this selection does not change the full publications archive.
 - Alumni are sorted by `graduation_year` in descending order. Current M.S.
   students are maintained separately in `_data/group.json`.
 - The existing July 2025 CV remains linked. Replace it when a newer CV is available.
+
+## Publication review — 6 November 2026
+
+- Updated 15 existing paper records against ACL Anthology, PMLR, OpenReview,
+  the NeurIPS program, and author-maintained publication records. Evidence URLs
+  are retained in `migration/publication-overrides.json`.
+- Added the missing **End-to-End Differentiable GANs for Text Generation**
+  workshop paper from PMLR, bringing the archive to 58 papers.
+- Added published EMNLP, ACL Findings, EACL demonstration, COLM, and TMLR links
+  and citation metadata while retaining all 92 original resource links.
+- Updated the hallucination position paper to the final ICML title and complete
+  author list. Corrected the homepage EMNLP announcement to two main-conference
+  papers and one Findings paper.
+- Updated OGCaReBench to its verified ICML 2026 Structured Data for Health
+  workshop poster venue. Workshop acceptance is kept distinct from main-track
+  acceptance.
+- HalluWorld and the SLT paper remain marked “To appear”; the other remaining
+  preprints have no newly verified archival acceptance in this review.
+- The generator and rendered-site check now verify one descending year group
+  per publication year. Copyable citations use journal entries for TMLR and
+  retain supplied publisher metadata where available.
 
 ## Publication
 

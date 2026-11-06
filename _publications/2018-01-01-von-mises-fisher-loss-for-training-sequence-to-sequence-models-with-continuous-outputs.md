@@ -2,12 +2,12 @@
 title: "Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs"
 collection: "publications"
 permalink: "/publication/2018-01-01-von-mises-fisher-loss-for-training-sequence-to-sequence-models-with-continuous-outputs/"
-date: "2018-01-01"
-year: 2018
-publication_order: 51
+date: "2019-01-01"
+year: 2019
+publication_order: 53
 authors: "Sachin Kumar & Yulia Tsvetkov"
 venue: "7th International Conference on Learning Representations (ICLR) 2019"
-citation: "Sachin Kumar &amp; Yulia Tsvetkov. (2018). Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs. <i>7th International Conference on Learning Representations (ICLR) 2019</i>."
+citation: "Sachin Kumar &amp; Yulia Tsvetkov. (2019). Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs. <i>7th International Conference on Learning Representations (ICLR) 2019</i>."
 bibtex: "@inproceedings{kumar2019vonmisesfisher,\n  title = {{Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs}},\n  author = {Sachin Kumar and Yulia Tsvetkov},\n  year = {2019},\n  booktitle = {7th International Conference on Learning Representations (ICLR) 2019},\n  url = {https://openreview.net/forum?id=rJlDnoA5Y7}\n}"
 links: [{"label": "pdf", "url": "https://openreview.net/forum?id=rJlDnoA5Y7"}, {"label": "code", "url": "https://github.com/Sachin19/seq2seq-con"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"

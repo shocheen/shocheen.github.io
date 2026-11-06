@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2025-01-01-hybrid-preferences-learning-to-route-instances-for-human-vs-ai-feedback/"
 date: "2025-01-01"
 year: 2025
-publication_order: 25
+publication_order: 26
 authors: "Lester James V. Miranda, Yizhong Wang, Yanai Elazar, Sachin Kumar, Valentina Pyatkin, Faeze Brahman, Noah A. Smith, Hannaneh Hajishirzi, Pradeep Dasigi"
 venue: "2025 Conference of the Association for Computational Linguistics (ACL 2025)"
 citation: "Lester James V. Miranda, Yizhong Wang, Yanai Elazar, Sachin Kumar, Valentina Pyatkin, Faeze Brahman, Noah A. Smith, Hannaneh Hajishirzi, Pradeep Dasigi. (2025). Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback. <i>2025 Conference of the Association for Computational Linguistics (ACL 2025)</i>."

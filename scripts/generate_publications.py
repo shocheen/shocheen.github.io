@@ -44,7 +44,7 @@ def bibtex(record):
     family = unicodedata.normalize("NFKD", first_author).encode("ascii", "ignore").decode()
     key = re.sub(r"[^a-z]", "", family.lower()) + year + "".join(record["id"][11:].split("-")[:3])
     kind = "misc" if venue.lower().startswith("preprint") else "inproceedings"
-    if venue.startswith("Transactions of Machine Learning Research"):
+    if venue.startswith(("Transactions on Machine Learning Research", "Transactions of Machine Learning Research")):
         kind = "article"
     fields = [("title", "{" + tex_escape(record["title"]) + "}"),
               ("author", " and ".join(tex_escape(name) for name in authors)),
@@ -95,12 +95,13 @@ def validate(records):
         raise ValueError("A redirect overlaps a publication permalink")
 
 
-def render(record):
+def render(record, publication_order=None):
     metadata = {
         "title": record["title"], "collection": "publications",
         "permalink": f"/publication/{record['id']}/",
         "date": f"{record['year']}-01-01", "year": record["year"],
-        "publication_order": record["order"], "authors": record["authors"],
+        "publication_order": record["order"] if publication_order is None else publication_order,
+        "authors": record["authors"],
         "venue": record["venue"], "citation": citation(record), "bibtex": bibtex(record), "links": record["links"],
         "source_url": record["source_url"], "source_citation": record["source_citation"],
         "share": False, "comments": False,
@@ -121,7 +122,11 @@ def main():
     args = parser.parse_args()
     records = json.loads((ROOT / "_data/publications.json").read_text())
     validate(records)
-    expected = {f"{record['id']}.md": render(record) for record in records}
+    # Keep import order and URLs stable while grouping accepted papers by their
+    # publication year, which can differ from the original preprint year.
+    ordered = sorted(records, key=lambda record: (-record["year"], record["order"]))
+    expected = {f"{record['id']}.md": render(record, index)
+                for index, record in enumerate(ordered)}
     collection = ROOT / "_publications"
     errors = []
     for filename, content in expected.items():

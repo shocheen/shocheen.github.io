@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2026-01-01-bass-benchmarking-audio-lms-for-musical-structure-and-semantic-reasoning/"
 date: "2026-01-01"
 year: 2026
-publication_order: 11
+publication_order: 12
 authors: "Min Jang, Orevaoghene Ahia, Nazif Tamer, Sachin Kumar, Yulia Tsvetkov, Noah A. Smith"
 venue: "preprint"
 citation: "Min Jang, Orevaoghene Ahia, Nazif Tamer, Sachin Kumar, Yulia Tsvetkov, Noah A. Smith. (2026). BASS: Benchmarking Audio LMs for Musical Structure and Semantic Reasoning. <i>preprint</i>."

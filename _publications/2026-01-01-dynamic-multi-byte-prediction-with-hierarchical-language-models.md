@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2026-01-01-dynamic-multi-byte-prediction-with-hierarchical-language-models/"
 date: "2026-01-01"
 year: 2026
-publication_order: 6
+publication_order: 7
 authors: "Abraham Toluwase Owodunni, Chibuzor Okocha, Christan Grant, Tomasz Limisiewicz, Sachin Kumar"
 venue: "preprint"
 citation: "Abraham Toluwase Owodunni, Chibuzor Okocha, Christan Grant, Tomasz Limisiewicz, Sachin Kumar. (2026). Dynamic Multi-Byte Prediction With Hierarchical Language Models. <i>preprint</i>."

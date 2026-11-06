@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2017-01-01-earth-mover-distance-pooling-over-siamese-lstms-for-automatic-short-answer-grading/"
 date: "2017-01-01"
 year: 2017
-publication_order: 54
+publication_order: 56
 authors: "Sachin Kumar, Soumen Chakrabarti, Shourya Roy"
 venue: "In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI) 2017"
 citation: "Sachin Kumar, Soumen Chakrabarti, Shourya Roy. (2017). Earth Mover Distance Pooling over Siamese LSTMs for Automatic Short Answer Grading. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI) 2017</i>."

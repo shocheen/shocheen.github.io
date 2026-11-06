@@ -4,12 +4,12 @@ collection: "publications"
 permalink: "/publication/2026-01-01-seeing-through-conflicts-improving-instruction-hierarchy-alignment-in-vision-language-models/"
 date: "2026-01-01"
 year: 2026
-publication_order: 4
+publication_order: 5
 authors: "Nicholas Sansoterra, Zishuo Zheng, Sachin Kumar"
-venue: "2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026): Findings"
-citation: "Nicholas Sansoterra, Zishuo Zheng, Sachin Kumar. (2026). Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models. <i>2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026): Findings</i>."
-bibtex: "@inproceedings{sansoterra2026seeingthroughconflicts,\n  title = {{Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models}},\n  author = {Nicholas Sansoterra and Zishuo Zheng and Sachin Kumar},\n  year = {2026},\n  booktitle = {2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026): Findings},\n  eprint = {2609.22234},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2609.22234}\n}"
-links: [{"label": "pdf", "url": "https://arxiv.org/abs/2609.22234v1"}, {"label": "code", "url": "https://github.com/skai-research/Seeing-Through-Conflicts"}]
+venue: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+citation: "Nicholas Sansoterra, Zishuo Zheng, Sachin Kumar. (2026). Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models. <i>Findings of the Association for Computational Linguistics: EMNLP 2026</i>."
+bibtex: "@inproceedings{2026-findings-emnlp-1451,\n  title = {{Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models}},\n  author = {Sansoterra, Nicholas and Zheng, Zishuo and Kumar, Sachin},\n  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},\n  year = {2026},\n  pages = {30912--30927},\n  url = {https://aclanthology.org/2026.findings-emnlp.1451/},\n  doi = {10.18653/2026.findings-emnlp.1451}\n}"
+links: [{"label": "pdf", "url": "https://arxiv.org/abs/2609.22234v1"}, {"label": "code", "url": "https://github.com/skai-research/Seeing-Through-Conflicts"}, {"label": "proceedings", "url": "https://aclanthology.org/2026.findings-emnlp.1451/"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf][code] Nicholas Sansoterra, Zishuo Zheng, Sachin Kumar, \"Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models,\" 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026): Findings."
 share: false

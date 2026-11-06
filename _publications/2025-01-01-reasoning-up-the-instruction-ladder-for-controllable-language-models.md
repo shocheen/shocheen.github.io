@@ -2,14 +2,14 @@
 title: "Reasoning Up the Instruction Ladder for Controllable Language Models"
 collection: "publications"
 permalink: "/publication/2025-01-01-reasoning-up-the-instruction-ladder-for-controllable-language-models/"
-date: "2025-01-01"
-year: 2025
-publication_order: 15
+date: "2026-01-01"
+year: 2026
+publication_order: 16
 authors: "Zishuo Zheng, Vidhisha Balachandran, Chan Young Park, Faeze Brahman, Sachin Kumar"
-venue: "2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings), also presented at Foundations of Reasoning in Language Models (FoRLM) Workshop at NeurIPS 2025"
-citation: "Zishuo Zheng, Vidhisha Balachandran, Chan Young Park, Faeze Brahman, Sachin Kumar. (2025). Reasoning Up the Instruction Ladder for Controllable Language Models. <i>2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings), also presented at Foundations of Reasoning in Language Models (FoRLM) Workshop at NeurIPS 2025</i>."
-bibtex: "@inproceedings{zheng2026reasoningupthe,\n  title = {{Reasoning Up the Instruction Ladder for Controllable Language Models}},\n  author = {Zishuo Zheng and Vidhisha Balachandran and Chan Young Park and Faeze Brahman and Sachin Kumar},\n  year = {2026},\n  booktitle = {2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings)},\n  eprint = {2511.04694},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2511.04694}\n}"
-links: [{"label": "pdf", "url": "https://arxiv.org/abs/2511.04694"}, {"label": "code", "url": "https://github.com/skai-research/VerIH"}]
+venue: "Findings of the Association for Computational Linguistics: ACL 2026; also presented at Foundations of Reasoning in Language Models (FoRLM) Workshop at NeurIPS 2025"
+citation: "Zishuo Zheng, Vidhisha Balachandran, Chan Young Park, Faeze Brahman, Sachin Kumar. (2026). Reasoning Up the Instruction Ladder for Controllable Language Models. <i>Findings of the Association for Computational Linguistics: ACL 2026; also presented at Foundations of Reasoning in Language Models (FoRLM) Workshop at NeurIPS 2025</i>."
+bibtex: "@inproceedings{2026-findings-acl-1960,\n  title = {{Reasoning Up the Instruction Ladder for Controllable Language Models}},\n  author = {Zheng, Zishuo and Balachandran, Vidhisha and Park, Chan Young and Brahman, Faeze and Kumar, Sachin},\n  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},\n  year = {2026},\n  pages = {39332--39354},\n  url = {https://aclanthology.org/2026.findings-acl.1960/},\n  doi = {10.18653/v1/2026.findings-acl.1960}\n}"
+links: [{"label": "pdf", "url": "https://arxiv.org/abs/2511.04694"}, {"label": "code", "url": "https://github.com/skai-research/VerIH"}, {"label": "proceedings", "url": "https://aclanthology.org/2026.findings-acl.1960/"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2025]][pdf][code] Zishuo Zheng, Vidhisha Balachandran, Chan Young Park, Faeze Brahman, Sachin Kumar, \"Reasoning Up the Instruction Ladder for Controllable Language Models\", 2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings), also presented at Foundations of Reasoning in Language Models (FoRLM) Workshop at NeurIPS 2025."
 share: false

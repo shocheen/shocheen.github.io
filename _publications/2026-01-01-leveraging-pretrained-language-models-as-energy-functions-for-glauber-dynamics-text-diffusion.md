@@ -4,12 +4,12 @@ collection: "publications"
 permalink: "/publication/2026-01-01-leveraging-pretrained-language-models-as-energy-functions-for-glauber-dynamics-text-diffusion/"
 date: "2026-01-01"
 year: 2026
-publication_order: 10
+publication_order: 11
 authors: "Tarun Kathuria, Sachin Kumar"
-venue: "2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings)"
-citation: "Tarun Kathuria, Sachin Kumar. (2026). Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion. <i>2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings)</i>."
-bibtex: "@inproceedings{kathuria2026leveragingpretrainedlanguage,\n  title = {{Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion}},\n  author = {Tarun Kathuria and Sachin Kumar},\n  year = {2026},\n  booktitle = {2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings)},\n  eprint = {2605.04291},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2605.04291}\n}"
-links: [{"label": "pdf", "url": "https://arxiv.org/abs/2605.04291"}]
+venue: "Findings of the Association for Computational Linguistics: ACL 2026"
+citation: "Tarun Kathuria, Sachin Kumar. (2026). Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion. <i>Findings of the Association for Computational Linguistics: ACL 2026</i>."
+bibtex: "@inproceedings{2026-findings-acl-2117,\n  title = {{Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion}},\n  author = {Kathuria, Tarun and Kumar, Sachin},\n  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},\n  year = {2026},\n  pages = {42625--42643},\n  url = {https://aclanthology.org/2026.findings-acl.2117/},\n  doi = {10.18653/v1/2026.findings-acl.2117}\n}"
+links: [{"label": "pdf", "url": "https://arxiv.org/abs/2605.04291"}, {"label": "proceedings", "url": "https://aclanthology.org/2026.findings-acl.2117/"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf] Tarun Kathuria, Sachin Kumar, \"Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion\", 2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings)."
 share: false

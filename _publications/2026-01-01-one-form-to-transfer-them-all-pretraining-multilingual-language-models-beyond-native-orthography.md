@@ -4,12 +4,12 @@ collection: "publications"
 permalink: "/publication/2026-01-01-one-form-to-transfer-them-all-pretraining-multilingual-language-models-beyond-native-orthography/"
 date: "2026-01-01"
 year: 2026
-publication_order: 3
+publication_order: 4
 authors: "Muge Zhang, Aaron Jencks, Krishna Badikela, Yulia Tsvetkov, Sachin Kumar"
-venue: "2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)"
-citation: "Muge Zhang, Aaron Jencks, Krishna Badikela, Yulia Tsvetkov, Sachin Kumar. (2026). One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography. <i>2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</i>."
-bibtex: "@inproceedings{zhang2026oneformto,\n  title = {{One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography}},\n  author = {Muge Zhang and Aaron Jencks and Krishna Badikela and Yulia Tsvetkov and Sachin Kumar},\n  year = {2026},\n  booktitle = {2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)},\n  eprint = {2608.25904},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2608.25904}\n}"
-links: [{"label": "pdf", "url": "https://arxiv.org/html/2608.25904"}, {"label": "code", "url": "https://github.com/skai-research/one-form-transfer"}]
+venue: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)"
+citation: "Muge Zhang, Aaron Jencks, Krishna Badikela, Yulia Tsvetkov, Sachin Kumar. (2026). One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography. <i>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</i>."
+bibtex: "@inproceedings{2026-emnlp-main-1838,\n  title = {{One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography}},\n  author = {Zhang, Muge and Jencks, Aaron and Badikela, Krishna and Tsvetkov, Yulia and Kumar, Sachin},\n  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},\n  year = {2026},\n  pages = {41808--41824},\n  url = {https://aclanthology.org/2026.emnlp-main.1838/},\n  doi = {10.18653/2026.emnlp-main.1838}\n}"
+links: [{"label": "pdf", "url": "https://arxiv.org/html/2608.25904"}, {"label": "code", "url": "https://github.com/skai-research/one-form-transfer"}, {"label": "proceedings", "url": "https://aclanthology.org/2026.emnlp-main.1838/"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf][code] Muge Zhang, Aaron Jencks, Krishna Badikela, Yulia Tsvetkov, Sachin Kumar, \"One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography,\" 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)."
 share: false

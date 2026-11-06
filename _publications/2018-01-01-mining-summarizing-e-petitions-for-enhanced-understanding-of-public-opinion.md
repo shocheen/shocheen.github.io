@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2018-01-01-mining-summarizing-e-petitions-for-enhanced-understanding-of-public-opinion/"
 date: "2018-01-01"
 year: 2018
-publication_order: 52
+publication_order: 54
 authors: "Shreshtha Mundra*, Sachin Kumar*, Manjira Sinha, Sandya Mannarswamy"
 venue: "In Proceedings of the International Conference on Information and Knowledge Management (CIKM) 2018"
 citation: "Shreshtha Mundra*, Sachin Kumar*, Manjira Sinha, Sandya Mannarswamy. (2018). Mining &amp; Summarizing E-petitions for Enhanced Understanding of Public Opinion. <i>In Proceedings of the International Conference on Information and Knowledge Management (CIKM) 2018</i>."

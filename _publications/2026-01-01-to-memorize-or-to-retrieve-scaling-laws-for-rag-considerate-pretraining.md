@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2026-01-01-to-memorize-or-to-retrieve-scaling-laws-for-rag-considerate-pretraining/"
 date: "2026-01-01"
 year: 2026
-publication_order: 9
+publication_order: 10
 authors: "Karan Singh, Michael Yu, Varun Gangal, Zhuofu Tao, Sachin Kumar, Emmy Liu, Steven Y. Feng"
 venue: "preprint"
 citation: "Karan Singh, Michael Yu, Varun Gangal, Zhuofu Tao, Sachin Kumar, Emmy Liu, Steven Y. Feng. (2026). To Memorize or to Retrieve: Scaling Laws for RAG-Considerate Pretraining. <i>preprint</i>."

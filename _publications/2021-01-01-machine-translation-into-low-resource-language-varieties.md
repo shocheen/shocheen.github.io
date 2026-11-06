@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2021-01-01-machine-translation-into-low-resource-language-varieties/"
 date: "2021-01-01"
 year: 2021
-publication_order: 46
+publication_order: 47
 authors: "Sachin Kumar, Antonios Anastasopoulos, Shuly Wintner, Yulia Tsvetkov"
 venue: "In the proceedings of 2021 Conference on Association of Computational Linguistics (ACL)"
 citation: "Sachin Kumar, Antonios Anastasopoulos, Shuly Wintner, Yulia Tsvetkov. (2021). Machine Translation into Low-Resource Language Varieties. <i>In the proceedings of 2021 Conference on Association of Computational Linguistics (ACL)</i>."

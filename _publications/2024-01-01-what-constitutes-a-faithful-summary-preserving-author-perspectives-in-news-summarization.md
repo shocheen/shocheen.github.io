@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2024-01-01-what-constitutes-a-faithful-summary-preserving-author-perspectives-in-news-summarization/"
 date: "2024-01-01"
 year: 2024
-publication_order: 33
+publication_order: 34
 authors: "YuHan Liu, Shangbin Feng, Xiaochuang Han, Vidhisha Balachandran, Chan Young Park, Sachin Kumar, Yulia Tsvetkov"
 venue: "2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)"
 citation: "YuHan Liu, Shangbin Feng, Xiaochuang Han, Vidhisha Balachandran, Chan Young Park, Sachin Kumar, Yulia Tsvetkov. (2024). What Constitutes a Faithful Summary? Preserving Author Perspectives in News Summarization. <i>2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)</i>."

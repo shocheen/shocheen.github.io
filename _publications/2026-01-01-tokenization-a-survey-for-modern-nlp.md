@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2026-01-01-tokenization-a-survey-for-modern-nlp/"
 date: "2026-01-01"
 year: 2026
-publication_order: 0
+publication_order: 1
 authors: "Marco Cognetta, Christopher Akiki, Pawan Sasanka Ammanamanchi, Catherine Arnett, Thomas Bauwens, Pavel Chizhov, Pieter Delobelle, Konstantin Dobler, Desmond Elliott, Omer Goldman, Tatsuya Hiraoka, Valentin Hofmann, Eugene Jang, Julie Kallini, Ilker Kesen, Sachin Kumar, Sander Land, Jindřich Libovický, Tomasz Limisiewicz, Alisa Liu, Clara Meister, Benjamin Minixhofer, Sangwhan Moon, Tiago Pimentel, David Pohl, Suchir Salhan, Tomohiro Sawada, Pavel Stepachev, Gianluca Vico, Philip Whittington, Xiulin Yang, Yuval Pinter"
 venue: "preprint"
 citation: "Marco Cognetta, Christopher Akiki, Pawan Sasanka Ammanamanchi, Catherine Arnett, Thomas Bauwens, Pavel Chizhov, Pieter Delobelle, Konstantin Dobler, Desmond Elliott, Omer Goldman, Tatsuya Hiraoka, Valentin Hofmann, Eugene Jang, Julie Kallini, Ilker Kesen, Sachin Kumar, Sander Land, Jindřich Libovický, Tomasz Limisiewicz, Alisa Liu, Clara Meister, Benjamin Minixhofer, Sangwhan Moon, Tiago Pimentel, David Pohl, Suchir Salhan, Tomohiro Sawada, Pavel Stepachev, Gianluca Vico, Philip Whittington, Xiulin Yang, Yuval Pinter. (2026). Tokenization: A Survey for Modern NLP. <i>preprint</i>."

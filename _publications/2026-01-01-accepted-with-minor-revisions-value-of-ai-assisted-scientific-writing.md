@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2026-01-01-accepted-with-minor-revisions-value-of-ai-assisted-scientific-writing/"
 date: "2026-01-01"
 year: 2026
-publication_order: 13
+publication_order: 14
 authors: "Sanchaita Hazra*, Doeun Lee*, Bodhisattwa Prasad Majumder, Sachin Kumar"
 venue: "2026 ACM Conference on Intelligent User Interfaces (IUI 2026). *=equal contribution"
 citation: "Sanchaita Hazra*, Doeun Lee*, Bodhisattwa Prasad Majumder, Sachin Kumar. (2026). Accepted with Minor Revisions: Value of AI-Assisted Scientific Writing. <i>2026 ACM Conference on Intelligent User Interfaces (IUI 2026). *=equal contribution</i>."

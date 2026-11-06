@@ -1,15 +1,15 @@
 ---
-title: "A Unified Definition of Hallucination, Or: It's the World Model, Stupid"
+title: "Position: We Need A Unified Definition of Hallucination (It’s The World Model, Stupid!)"
 collection: "publications"
 permalink: "/publication/2026-01-01-a-unified-definition-of-hallucination-or-it-s-the-world-model-stupid/"
 date: "2026-01-01"
 year: 2026
-publication_order: 14
-authors: "Emmy Liu, Varun Gangal, Chelsea Zou, Xiaoqi Huang, Michael Yu, Alex Chang, Zhuofu Tao, Sachin Kumar, Steven Y Feng"
-venue: "Internation Conference on Machine Learning (ICML 2026) Position Paper Track"
-citation: "Emmy Liu, Varun Gangal, Chelsea Zou, Xiaoqi Huang, Michael Yu, Alex Chang, Zhuofu Tao, Sachin Kumar, Steven Y Feng. (2026). A Unified Definition of Hallucination, Or: It&#x27;s the World Model, Stupid. <i>Internation Conference on Machine Learning (ICML 2026) Position Paper Track</i>."
-bibtex: "@inproceedings{liu2026aunifieddefinition,\n  title = {{A Unified Definition of Hallucination, Or: It's the World Model, Stupid}},\n  author = {Emmy Liu and Varun Gangal and Chelsea Zou and Xiaoqi Huang and Michael Yu and Alex Chang and Zhuofu Tao and Sachin Kumar and Steven Y Feng},\n  year = {2026},\n  booktitle = {Internation Conference on Machine Learning (ICML 2026) Position Paper Track},\n  eprint = {2512.21577},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2512.21577}\n}"
-links: [{"label": "pdf", "url": "https://arxiv.org/abs/2512.21577"}]
+publication_order: 15
+authors: "Emmy Liu, Varun Prashant Gangal, Chelsea Zou, Michael Yu, Xiaoqi Huang, Alex Chang, Zhuofu Tao, Karanpartap Singh, Sachin Kumar, Steven Y. Feng"
+venue: "International Conference on Machine Learning (ICML 2026), Position Paper Track"
+citation: "Emmy Liu, Varun Prashant Gangal, Chelsea Zou, Michael Yu, Xiaoqi Huang, Alex Chang, Zhuofu Tao, Karanpartap Singh, Sachin Kumar, Steven Y. Feng. (2026). Position: We Need A Unified Definition of Hallucination (It’s The World Model, Stupid!). <i>International Conference on Machine Learning (ICML 2026), Position Paper Track</i>."
+bibtex: "@InProceedings{pmlr-v306-liu26gu,\n  title = \t {Position: We Need A Unified Definition of Hallucination ({I}t’s The World Model, Stupid!)},\n  author =       {Liu, Emmy and Gangal, Varun Prashant and Zou, Chelsea and Yu, Michael and Huang, Xiaoqi and Chang, Alex and Tao, Zhuofu and Singh, Karanpartap and Kumar, Sachin and Feng, Steven Y.},\n  booktitle = \t {Proceedings of the 43rd International Conference on Machine Learning},\n  pages = \t {171298--171314},\n  year = \t {2026},\n  editor = \t {Zhang, Tong and Dudik, Miroslav and Jaggi, Martin and Agarwal, Alekh and Li, Sharon and Schuurmans, Dale and Zhu, Jerry and Berkenkamp, Felix and Dong, Hanze and Bietti, Alberto},\n  volume = \t {306},\n  series = \t {Proceedings of Machine Learning Research},\n  month = \t {06--11 Jul},\n  publisher =    {PMLR},\n  pdf = \t {https://raw.githubusercontent.com/mlresearch/v306/main/assets/liu26gu/liu26gu.pdf},\n  url = \t {https://proceedings.mlr.press/v306/liu26gu.html}\n}"
+links: [{"label": "pdf", "url": "https://arxiv.org/abs/2512.21577"}, {"label": "proceedings", "url": "https://proceedings.mlr.press/v306/liu26gu.html"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf] Emmy Liu, Varun Gangal, Chelsea Zou, Xiaoqi Huang, Michael Yu, Alex Chang, Zhuofu Tao, Sachin Kumar, Steven Y Feng, \"A Unified Definition of Hallucination, Or: It's the World Model, Stupid\", Internation Conference on Machine Learning (ICML 2026) Position Paper Track."
 share: false

@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2025-01-01-scholareval-research-idea-evaluation-grounded-in-literature/"
 date: "2025-01-01"
 year: 2025
-publication_order: 16
+publication_order: 19
 authors: "Hanane Nour Moussa*, Patrick Queiroz Da Silva*, Daniel Adu-Ampratwum, Alyson East, Zitong Lu, Nikki Puccetti, Mingyi Xue, Huan Sun, Bodhisattwa Prasad Majumder, Sachin Kumar"
 venue: "preprint. *=equal contribution"
 citation: "Hanane Nour Moussa*, Patrick Queiroz Da Silva*, Daniel Adu-Ampratwum, Alyson East, Zitong Lu, Nikki Puccetti, Mingyi Xue, Huan Sun, Bodhisattwa Prasad Majumder, Sachin Kumar. (2025). ScholarEval: Research Idea Evaluation Grounded in Literature. <i>preprint. *=equal contribution</i>."

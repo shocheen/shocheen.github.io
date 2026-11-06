@@ -4,7 +4,7 @@ collection: "publications"
 permalink: "/publication/2020-01-01-a-deep-reinforced-model-for-zero-shot-cross-lingual-summarization-with-bilingual-semantic-similarity-rewards/"
 date: "2020-01-01"
 year: 2020
-publication_order: 48
+publication_order: 49
 authors: "Zi-Yi Dou, Sachin Kumar, Yulia Tsvetkov"
 venue: "The 4th Workshop on Neural Generation and Translation (ACL) 2020"
 citation: "Zi-Yi Dou, Sachin Kumar, Yulia Tsvetkov. (2020). A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards. <i>The 4th Workshop on Neural Generation and Translation (ACL) 2020</i>."
