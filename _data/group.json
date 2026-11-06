@@ -38,12 +38,27 @@
       "detail": "Ph.D. student · 2026–"
     }
   ],
+  "masters_students": [
+    {
+      "name": "Jack Taylor",
+      "url": "https://engineering.osu.edu/people/taylor.3781",
+      "initials": "JT",
+      "detail": "M.S. student · 2025–"
+    },
+    {
+      "name": "Hsiu-Chen Yu",
+      "url": "https://www.linkedin.com/in/hsiu-chen-yu/",
+      "image": "hsiu-chen-yu.jpg",
+      "detail": "M.S. student · 2026–"
+    }
+  ],
   "alumni": [
     {
       "name": "Nikhil Pavan Kanaka",
       "url": "https://www.linkedin.com/in/nikhilkanaka/",
       "image": "nikhil.jpg",
       "detail": "M.S. · 2024",
+      "graduation_year": 2024,
       "note": "Software Engineer at StackGen"
     },
     {
@@ -51,6 +66,7 @@
       "url": "https://www.linkedin.com/in/aaron-jencks-185bb924b/",
       "image": "aaron.jpeg",
       "detail": "M.S. · 2024–2025",
+      "graduation_year": 2025,
       "note": "Ph.D. at OSU with Radu Teodorescu"
     },
     {
@@ -58,6 +74,7 @@
       "url": "https://leadoeun.github.io/",
       "image": "doeun.jpeg",
       "detail": "M.S. · 2024–2026",
+      "graduation_year": 2026,
       "note": "Research Assistant at Seoul National University"
     },
     {
@@ -65,14 +82,22 @@
       "url": "https://www.linkedin.com/in/jiwoo-park-55605525b/",
       "image": "jiwoo.png",
       "detail": "M.S. · 2024–2026",
+      "graduation_year": 2026,
       "note": "Ph.D. at OSU with Ping Zhang"
     },
     {
       "name": "Yi Yu",
       "url": "https://openreview.net/profile?id=%7EYi_Yu10",
       "detail": "M.S. · 2024–2026",
+      "graduation_year": 2026,
       "note": "Ph.D. at Purdue University",
       "initials": "YY"
+    },
+    {
+      "name": "Nicholas Sansoterra",
+      "url": "https://www.linkedin.com/in/nsansoterra/",
+      "detail": "M.S. · 2024–2026",
+      "graduation_year": 2026
     }
   ]
 }

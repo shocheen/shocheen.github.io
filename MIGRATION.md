@@ -10,7 +10,8 @@ Site and custom-domain settings are managed separately and have not been changed
 - All 92 original resource links, plus six recovered links verified against primary sources.
 - Complete author lists, venues, award text, and equal-contribution markers.
 - 105 news entries; eight appear initially and earlier news expands on the homepage.
-- Six current Ph.D. students, five alumni, the group support statement, and five courses.
+- Six current Ph.D. students, two current M.S. students, six alumni, the group
+  support statement, and five courses.
 - Updated advisor links, prospective-student instructions, and social profile links.
 
 ## Updating publications
@@ -79,6 +80,8 @@ this selection does not change the full publications archive.
   on the source site. Its citation is retained without an invented link.
 - Alumni appear as a text list. Current students retain their portraits; Muge
   and Yusen's portraits were copied from their linked public homepages.
+- Alumni are sorted by `graduation_year` in descending order. Current M.S.
+  students are maintained separately in `_data/group.json`.
 - The existing July 2025 CV remains linked. Replace it when a newer CV is available.
 
 ## Publication

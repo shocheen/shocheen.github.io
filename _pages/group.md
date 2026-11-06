@@ -15,10 +15,19 @@ redirect_from:
 {% endfor %}
 </div>
 
+## M.S. Students
+
+<div class="group-grid">
+{% for member in site.data.group.masters_students %}
+  {% include group-member.html member=member %}
+{% endfor %}
+</div>
+
 ## Alumni
 
+{% assign alumni = site.data.group.alumni | sort: 'graduation_year' | reverse %}
 <ul class="alumni-list">
-{% for member in site.data.group.alumni %}
+{% for member in alumni %}
   <li><a href="{{ member.url | escape }}">{{ member.name | escape }}</a> — {{ member.detail | escape }}{% if member.note %}; {{ member.note | escape }}{% endif %}</li>
 {% endfor %}
 </ul>
