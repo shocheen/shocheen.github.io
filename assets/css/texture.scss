@@ -1,0 +1,27 @@
+---
+---
+
+/* Texture by Samarjeet Singh, MIT licensed. See licenses/Texture-MIT.txt. */
+@import "texture/theme";
+@import "vendor/font-awesome/fontawesome", "vendor/font-awesome/solid", "vendor/font-awesome/brands";
+
+{% assign texture_styles = 'black,blue,red,purple,green,yellow' | split: ',' %}
+{% for texture_style in texture_styles %}
+.texture-{{ texture_style }} {
+  background-image: url("{{ '/assets/textures/' | append: texture_style | append: '.jpg' | relative_url }}");
+}
+{% endfor %}
+
+@import "texture/site";
+@import "bio-profile";
+@import "selected-research";
+
+.texture-header .bio-profile { border: 0; padding: 0; margin: 0; }
+.texture-header .bio-profile-name { color: #fff; font-size: 36px; }
+.texture-header .bio-profile-info { color: #eee; }
+.texture-header .bio-profile-socials a { background: rgba(255,255,255,.14); color: #fff; }
+.texture-header .bio-profile-socials a:hover { background: rgba(255,255,255,.24); color: #fff; }
+
+@media (max-width: 600px) {
+  .texture-header .bio-profile-name { font-size: 30px; }
+}

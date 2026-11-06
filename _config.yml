@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Sachin Kumar"
+appearance               : lagrange
 title_separator          : "-"
 name                     : &name "Sachin Kumar"
 description              : &description "Assistant Professor at the Ohio State University"

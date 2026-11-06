@@ -8,6 +8,7 @@ publication_order: 53
 authors: "Sachin Kumar, Yulia Tsvetkov"
 venue: "ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models"
 citation: "Sachin Kumar, Yulia Tsvetkov. (2018). Machine Translation with Continuous Outputs. <i>ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models</i>."
+bibtex: "@inproceedings{kumar2018machinetranslationwith,\n  title = {{Machine Translation with Continuous Outputs}},\n  author = {Sachin Kumar and Yulia Tsvetkov},\n  year = {2018},\n  booktitle = {ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models}\n}"
 links: []
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2018] Sachin Kumar, Yulia Tsvetkov, Machine Translation with Continuous Outputs, ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models."

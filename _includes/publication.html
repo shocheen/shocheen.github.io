@@ -3,5 +3,11 @@
   <h3 id="{{ publication.id | slugify }}" class="publication-title"><a href="{{ publication.url | relative_url }}">{{ publication.title | escape }}</a></h3>
   <p class="publication-authors">{{ publication.authors | escape | replace: 'Sachin Kumar', '<strong>Sachin Kumar</strong>' }}</p>
   <p class="publication-venue">{{ publication.venue | escape }}</p>
-  {% include publication-links.html publication=publication %}
+  <div class="publication-resources">
+    {% include publication-links.html publication=publication %}
+    <details class="bibtex-disclosure">
+      <summary>BibTeX</summary>
+      {% include bibtex.html publication=publication %}
+    </details>
+  </div>
 </article>

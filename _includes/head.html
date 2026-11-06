@@ -16,6 +16,14 @@
 </script>
 
 <!-- For all browsers -->
+{% if site.appearance == 'texture' %}
+<link rel="stylesheet" href="{{ base_path }}/assets/css/texture.css">
+{% elsif site.appearance == 'lagrange' %}
+<link rel="stylesheet" href="{{ base_path }}/assets/css/lagrange.css">
+{% else %}
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+{% endif %}
 
 <meta http-equiv="cleartype" content="on">
+<link rel="stylesheet" href="{{ '/assets/css/bibtex.css' | relative_url }}">
+<script src="{{ '/assets/js/bibtex.js' | relative_url }}" defer></script>

@@ -8,6 +8,7 @@ publication_order: 44
 authors: "Sachin Kumar, Eric Malmi, Aliaksei Severyn, Yulia Tsvetkov"
 venue: "Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS) 2021"
 citation: "Sachin Kumar, Eric Malmi, Aliaksei Severyn, Yulia Tsvetkov. (2021). Controlled Text Generation as Continuous Optimization with Multiple Constraints. <i>Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS) 2021</i>."
+bibtex: "@inproceedings{kumar2021controlledtextgeneration,\n  title = {{Controlled Text Generation as Continuous Optimization with Multiple Constraints}},\n  author = {Sachin Kumar and Eric Malmi and Aliaksei Severyn and Yulia Tsvetkov},\n  year = {2021},\n  booktitle = {Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS) 2021},\n  eprint = {2108.01850},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2108.01850}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2108.01850"}, {"label": "code", "url": "https://github.com/Sachin19/mucoco"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2021] [pdf][code] Sachin Kumar, Eric Malmi, Aliaksei Severyn, Yulia Tsvetkov. Controlled Text Generation as Continuous Optimization with Multiple Constraints. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS) 2021."

@@ -8,6 +8,7 @@ publication_order: 38
 authors: "Tianxing He, Jingyu Zhang, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass, Yulia Tsvetkov"
 venue: "2023 Conference of the Association for Computational Linguistics (ACL 2023)"
 citation: "Tianxing He, Jingyu Zhang, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass, Yulia Tsvetkov. (2023). On the Blind Spots of Model-Based Evaluation Metrics for Text Generation. <i>2023 Conference of the Association for Computational Linguistics (ACL 2023)</i>."
+bibtex: "@inproceedings{he2023ontheblind,\n  title = {{On the Blind Spots of Model-Based Evaluation Metrics for Text Generation}},\n  author = {Tianxing He and Jingyu Zhang and Tianle Wang and Sachin Kumar and Kyunghyun Cho and James Glass and Yulia Tsvetkov},\n  year = {2023},\n  booktitle = {2023 Conference of the Association for Computational Linguistics (ACL 2023)},\n  eprint = {2212.10020},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2212.10020}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2212.10020"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2023] [pdf] [code] Tianxing He, Jingyu Zhang, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass, Yulia Tsvetkov, \"On the Blind Spots of Model-Based Evaluation Metrics for Text Generation\", 2023 Conference of the Association for Computational Linguistics (ACL 2023)."

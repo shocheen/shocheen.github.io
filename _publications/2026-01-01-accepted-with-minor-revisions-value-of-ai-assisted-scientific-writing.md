@@ -8,6 +8,7 @@ publication_order: 13
 authors: "Sanchaita Hazra*, Doeun Lee*, Bodhisattwa Prasad Majumder, Sachin Kumar"
 venue: "2026 ACM Conference on Intelligent User Interfaces (IUI 2026). *=equal contribution"
 citation: "Sanchaita Hazra*, Doeun Lee*, Bodhisattwa Prasad Majumder, Sachin Kumar. (2026). Accepted with Minor Revisions: Value of AI-Assisted Scientific Writing. <i>2026 ACM Conference on Intelligent User Interfaces (IUI 2026). *=equal contribution</i>."
+bibtex: "@inproceedings{hazra2026acceptedwithminor,\n  title = {{Accepted with Minor Revisions: Value of AI-Assisted Scientific Writing}},\n  author = {Sanchaita Hazra and Doeun Lee and Bodhisattwa Prasad Majumder and Sachin Kumar},\n  year = {2026},\n  booktitle = {2026 ACM Conference on Intelligent User Interfaces (IUI 2026)},\n  eprint = {2511.12529},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2511.12529}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/pdf/2511.12529"}, {"label": "code", "url": "https://github.com/skai-research/scientific-writing-assistance"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf][code] Sanchaita Hazra*, Doeun Lee*, Bodhisattwa Prasad Majumder, Sachin Kumar, \"Accepted with Minor Revisions: Value of AI-Assisted Scientific Writing\", 2026 ACM Conference on Intelligent User Interfaces (IUI 2026). *=equal contribution."

@@ -8,6 +8,7 @@ publication_order: 35
 authors: "Sachin Kumar, Chan Young Park, Yulia Tsvetkov"
 venue: "International Conference on Learning Representations (ICLR 2024)"
 citation: "Sachin Kumar, Chan Young Park, Yulia Tsvetkov. (2024). Gen-Z: Generative Zero-Shot Text Classification with Contextualized Label Descriptions. <i>International Conference on Learning Representations (ICLR 2024)</i>."
+bibtex: "@inproceedings{kumar2024genzgenerative,\n  title = {{Gen-Z: Generative Zero-Shot Text Classification with Contextualized Label Descriptions}},\n  author = {Sachin Kumar and Chan Young Park and Yulia Tsvetkov},\n  year = {2024},\n  booktitle = {International Conference on Learning Representations (ICLR 2024)},\n  eprint = {2311.07115},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2311.07115}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/pdf/2311.07115.pdf"}, {"label": "code", "url": "https://github.com/Sachin19/generative-classification"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2024][pdf][code] Sachin Kumar, Chan Young Park, Yulia Tsvetkov, \"Gen-Z: Generative Zero-Shot Text Classification with Contextualized Label Descriptions\", International Conference on Learning Representations (ICLR 2024)."

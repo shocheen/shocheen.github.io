@@ -8,6 +8,7 @@ publication_order: 6
 authors: "Abraham Toluwase Owodunni, Chibuzor Okocha, Christan Grant, Tomasz Limisiewicz, Sachin Kumar"
 venue: "preprint"
 citation: "Abraham Toluwase Owodunni, Chibuzor Okocha, Christan Grant, Tomasz Limisiewicz, Sachin Kumar. (2026). Dynamic Multi-Byte Prediction With Hierarchical Language Models. <i>preprint</i>."
+bibtex: "@misc{owodunni2026dynamicmultibyte,\n  title = {{Dynamic Multi-Byte Prediction With Hierarchical Language Models}},\n  author = {Abraham Toluwase Owodunni and Chibuzor Okocha and Christan Grant and Tomasz Limisiewicz and Sachin Kumar},\n  year = {2026},\n  note = {Preprint},\n  eprint = {2608.15454},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2608.15454}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2608.15454"}, {"label": "code", "url": "https://github.com/skai-research/lca-multibyte"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf][code] Abraham Toluwase Owodunni, Chibuzor Okocha, Christan Grant, Tomasz Limisiewicz, Sachin Kumar, \"Dynamic Multi-Byte Prediction With Hierarchical Language Models,\" preprint."

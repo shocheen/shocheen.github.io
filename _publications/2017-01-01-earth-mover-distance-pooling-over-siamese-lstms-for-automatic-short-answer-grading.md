@@ -8,6 +8,7 @@ publication_order: 54
 authors: "Sachin Kumar, Soumen Chakrabarti, Shourya Roy"
 venue: "In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI) 2017"
 citation: "Sachin Kumar, Soumen Chakrabarti, Shourya Roy. (2017). Earth Mover Distance Pooling over Siamese LSTMs for Automatic Short Answer Grading. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI) 2017</i>."
+bibtex: "@inproceedings{kumar2017earthmoverdistance,\n  title = {{Earth Mover Distance Pooling over Siamese LSTMs for Automatic Short Answer Grading}},\n  author = {Sachin Kumar and Soumen Chakrabarti and Shourya Roy},\n  year = {2017},\n  booktitle = {Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI) 2017},\n  url = {https://www.ijcai.org/proceedings/2017/0284.pdf}\n}"
 links: [{"label": "pdf", "url": "https://www.ijcai.org/proceedings/2017/0284.pdf"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2017] [pdf] Sachin Kumar, Soumen Chakrabarti, Shourya Roy. Earth Mover Distance Pooling over Siamese LSTMs for Automatic Short Answer Grading. In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI) 2017."

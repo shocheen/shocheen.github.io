@@ -8,6 +8,7 @@ publication_order: 18
 authors: "Abraham Toluwase Owodunni, Sachin Kumar"
 venue: "Transactions of Machine Learning Research (TMLR); also presented at Multilingual and Equitable Language Technologies (MELT) Workshop @COLM 2025"
 citation: "Abraham Toluwase Owodunni, Sachin Kumar. (2025). Continually Adding New Languages to Multilingual Language Models. <i>Transactions of Machine Learning Research (TMLR); also presented at Multilingual and Equitable Language Technologies (MELT) Workshop @COLM 2025</i>."
+bibtex: "@article{owodunni2025continuallyaddingnew,\n  title = {{Continually Adding New Languages to Multilingual Language Models}},\n  author = {Abraham Toluwase Owodunni and Sachin Kumar},\n  year = {2025},\n  journal = {Transactions of Machine Learning Research (TMLR)},\n  eprint = {2509.11414},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2509.11414}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2509.11414"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2025][pdf][code] Abraham Toluwase Owodunni, Sachin Kumar, \"Continually Adding New Languages to Multilingual Language Models\", Transactions of Machine Learning Research (TMLR); also presented at Multilingual and Equitable Language Technologies (MELT) Workshop @COLM 2025."

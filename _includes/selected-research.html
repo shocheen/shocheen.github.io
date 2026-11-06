@@ -1,0 +1,25 @@
+{% if site.data.selected_research.size > 0 %}
+<section class="selected-research" id="selected-research" aria-labelledby="selected-research-title">
+  <div class="selected-research-heading">
+    <h2 id="selected-research-title">Selected research</h2>
+    <a href="{{ '/publications/' | relative_url }}">All publications</a>
+  </div>
+  {% for feature in site.data.selected_research %}
+  {% assign publication = site.data.publications | where: 'id', feature.publication_id | first %}
+  {% assign paper_url = '/publication/' | append: publication.id | append: '/' %}
+  {% assign author_names = publication.authors | split: ',' %}
+  <article class="selected-paper" aria-labelledby="selected-{{ publication.id }}">
+    <figure class="selected-paper-figure">
+      <a href="{{ paper_url | relative_url }}"><img src="{{ feature.image | relative_url }}" alt="{{ feature.image_alt | escape }}" width="400" height="300" loading="lazy" decoding="async"></a>
+      <figcaption><a href="{{ feature.figure_source | escape }}">{{ feature.figure_label }}</a></figcaption>
+    </figure>
+    <div class="selected-paper-details">
+      <h3 id="selected-{{ publication.id }}"><a href="{{ paper_url | relative_url }}">{{ publication.title | escape }}</a></h3>
+      <p class="selected-paper-authors">{{ author_names.first | strip | escape }}{% if author_names.size > 1 %} et al.{% endif %}</p>
+      <p class="selected-paper-venue">{{ publication.venue | escape }}{% if publication.venue == 'preprint' %} · {{ publication.year }}{% endif %}</p>
+      {% include publication-links.html publication=publication %}
+    </div>
+  </article>
+  {% endfor %}
+</section>
+{% endif %}

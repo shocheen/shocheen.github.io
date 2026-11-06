@@ -8,6 +8,7 @@ publication_order: 45
 authors: "Monisha Jegadeesan, Sachin Kumar, John Wieting, Yulia Tsvetkov"
 venue: "Multilingual Representation Learning Workshop at EMNLP 2021"
 citation: "Monisha Jegadeesan, Sachin Kumar, John Wieting, Yulia Tsvetkov. (2021). Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs. <i>Multilingual Representation Learning Workshop at EMNLP 2021</i>."
+bibtex: "@inproceedings{jegadeesan2021improvingthediversity,\n  title = {{Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs}},\n  author = {Monisha Jegadeesan and Sachin Kumar and John Wieting and Yulia Tsvetkov},\n  year = {2021},\n  booktitle = {Multilingual Representation Learning Workshop at EMNLP 2021},\n  url = {https://aclanthology.org/2021.mrl-1.15/}\n}"
 links: [{"label": "pdf", "url": "https://aclanthology.org/2021.mrl-1.15.pdf"}, {"label": "code", "url": "https://github.com/monisha-jega/paraphrasing_embedding_outputs"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2021] [pdf] [code] Monisha Jegadeesan, Sachin Kumar, John Wieting, Yulia Tsvetkov. Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs. Multilingual Representation Learning Workshop at EMNLP 2021."

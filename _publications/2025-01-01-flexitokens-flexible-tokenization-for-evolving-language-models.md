@@ -8,6 +8,7 @@ publication_order: 21
 authors: "Abraham Toluwase Owodunni, Orevaoghene Ahia, Sachin Kumar"
 venue: "2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings), also presented at Tokenization Workshop @ICML 2025"
 citation: "Abraham Toluwase Owodunni, Orevaoghene Ahia, Sachin Kumar. (2025). FLEXITOKENS: Flexible Tokenization for Evolving Language Models. <i>2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings), also presented at Tokenization Workshop @ICML 2025</i>."
+bibtex: "@inproceedings{owodunni2026flexitokensflexibletokenization,\n  title = {{FLEXITOKENS: Flexible Tokenization for Evolving Language Models}},\n  author = {Abraham Toluwase Owodunni and Orevaoghene Ahia and Sachin Kumar},\n  year = {2026},\n  booktitle = {2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings)},\n  eprint = {2507.12720},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2507.12720}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2507.12720"}, {"label": "code", "url": "https://github.com/owos/flexitokens"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2025][pdf][code] Abraham Toluwase Owodunni, Orevaoghene Ahia, Sachin Kumar, \"FLEXITOKENS: Flexible Tokenization for Evolving Language Models\", 2026 Conference of the Association for Computational Linguistics (ACL 2026 Findings), also presented at Tokenization Workshop @ICML 2025."

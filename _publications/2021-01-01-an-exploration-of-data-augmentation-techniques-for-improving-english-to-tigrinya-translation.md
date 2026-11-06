@@ -8,6 +8,7 @@ publication_order: 47
 authors: "Lidia Kidane, Sachin Kumar, Yulia Tsvetkov"
 venue: "The 2nd AfricaNLP Workshop at EACL 2021"
 citation: "Lidia Kidane, Sachin Kumar, Yulia Tsvetkov. (2021). An Exploration of Data Augmentation Techniques for Improving English to Tigrinya Translation. <i>The 2nd AfricaNLP Workshop at EACL 2021</i>."
+bibtex: "@inproceedings{kidane2021anexplorationof,\n  title = {{An Exploration of Data Augmentation Techniques for Improving English to Tigrinya Translation}},\n  author = {Lidia Kidane and Sachin Kumar and Yulia Tsvetkov},\n  year = {2021},\n  booktitle = {The 2nd AfricaNLP Workshop at EACL 2021},\n  eprint = {2103.16789},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2103.16789}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2103.16789"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2021] [pdf] Lidia Kidane, Sachin Kumar, Yulia Tsvetkov. An Exploration of Data Augmentation Techniques for Improving English to Tigrinya Translation. The 2nd AfricaNLP Workshop at EACL 2021."

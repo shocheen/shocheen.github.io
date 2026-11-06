@@ -8,6 +8,7 @@ publication_order: 24
 authors: "Jaesung Tae*, Hamish Ivison*, Sachin Kumar, Arman Cohan"
 venue: "2025 Conference of the Association for Computational Linguistics (ACL 2025) Oral (top 8%). *=equal contribution"
 citation: "Jaesung Tae*, Hamish Ivison*, Sachin Kumar, Arman Cohan. (2025). TESS 2: A Large-Scale Generalist Diffusion Language Model. <i>2025 Conference of the Association for Computational Linguistics (ACL 2025) Oral (top 8%). *=equal contribution</i>."
+bibtex: "@inproceedings{tae2025tess2a,\n  title = {{TESS 2: A Large-Scale Generalist Diffusion Language Model}},\n  author = {Jaesung Tae and Hamish Ivison and Sachin Kumar and Arman Cohan},\n  year = {2025},\n  booktitle = {2025 Conference of the Association for Computational Linguistics (ACL 2025)},\n  eprint = {2502.13917},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2502.13917}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2502.13917"}, {"label": "code", "url": "https://github.com/hamishivi/tess-2"}, {"label": "demo", "url": "https://t.co/9uRf1qx0RE"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2025][pdf][code][demo] Jaesung Tae*, Hamish Ivison*, Sachin Kumar, Arman Cohan, \"TESS 2: A Large-Scale Generalist Diffusion Language Model\", 2025 Conference of the Association for Computational Linguistics (ACL 2025) Oral (top 8%). *=equal contribution."

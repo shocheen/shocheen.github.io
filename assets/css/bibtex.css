@@ -1,0 +1,14 @@
+.publication-resources > .publication-links { display: inline; }
+.bibtex-disclosure { display: inline; margin-left: .6em; }
+.bibtex-disclosure > summary { display: inline-block; cursor: pointer; text-decoration: underline; font: inherit; font-size: .95rem; }
+.bibtex-disclosure > summary::-webkit-details-marker { display: none; }
+.bibtex-disclosure > summary::marker { content: ""; }
+.bibtex-panel { display: block; margin: .75rem 0 1.25rem; min-width: 0; }
+.bibtex-actions { display: flex; align-items: center; gap: .75em; margin-bottom: .4rem; font: .8rem/1.5 sans-serif; }
+.copy-bibtex { padding: .25em .6em; border: 1px solid #ccc; border-radius: 2px; background: #fff; color: #505050; font: inherit; cursor: pointer; }
+.copy-bibtex[hidden] { display: none; }
+.copy-bibtex:hover { border-color: #505050; }
+.copy-bibtex:focus-visible, .bibtex-disclosure > summary:focus-visible { outline: 2px solid #505050; outline-offset: 3px; }
+.bibtex-panel pre { max-width: 100%; margin: 0; padding: 1rem; background: #f5f5f5; white-space: pre-wrap; word-break: normal; overflow-wrap: anywhere; overflow-x: auto; line-height: 1.6; }
+.bibtex-panel code { padding: 0; border: 0; background: transparent; font: .8rem/1.6 Monaco, Consolas, monospace; }
+@media print { .bibtex-actions { display: none; } }

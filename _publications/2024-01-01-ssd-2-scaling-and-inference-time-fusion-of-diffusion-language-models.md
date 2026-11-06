@@ -8,6 +8,7 @@ publication_order: 34
 authors: "Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov, Marjan Ghazvininejad"
 venue: "2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)"
 citation: "Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov, Marjan Ghazvininejad. (2024). SSD-2: Scaling and Inference-time Fusion of Diffusion Language Models. <i>2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)</i>."
+bibtex: "@inproceedings{han2024ssd2scaling,\n  title = {{SSD-2: Scaling and Inference-time Fusion of Diffusion Language Models}},\n  author = {Xiaochuang Han and Sachin Kumar and Yulia Tsvetkov and Marjan Ghazvininejad},\n  year = {2024},\n  booktitle = {2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)},\n  eprint = {2305.14771},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2305.14771}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2305.14771"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2024][pdf][code] Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov, Marjan Ghazvininejad, \"SSD-2: Scaling and Inference-time Fusion of Diffusion Language Models\", 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)."

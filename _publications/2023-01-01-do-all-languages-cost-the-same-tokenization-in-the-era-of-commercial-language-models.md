@@ -8,6 +8,7 @@ publication_order: 36
 authors: "Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David R. Mortensen, Noah A. Smith, Yulia Tsvetkov"
 venue: "2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
 citation: "Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David R. Mortensen, Noah A. Smith, Yulia Tsvetkov. (2023). Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models. <i>2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)</i>."
+bibtex: "@inproceedings{ahia2023doalllanguages,\n  title = {{Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models}},\n  author = {Orevaoghene Ahia and Sachin Kumar and Hila Gonen and Jungo Kasai and David R. Mortensen and Noah A. Smith and Yulia Tsvetkov},\n  year = {2023},\n  booktitle = {2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)},\n  eprint = {2305.13707},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2305.13707}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2305.13707"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2023][pdf][code] Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David R. Mortensen, Noah A. Smith, Yulia Tsvetkov, \"Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models\", 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)."

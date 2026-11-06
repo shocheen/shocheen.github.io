@@ -8,6 +8,7 @@ publication_order: 7
 authors: "Patrick Queiroz Da Silva, Sanchaita Hazra, Doeun Lee, Sachin Kumar, Bodhisattwa Prasad Majumder"
 venue: "2026 Conference of Language Modeling (COLM 2026). To appear"
 citation: "Patrick Queiroz Da Silva, Sanchaita Hazra, Doeun Lee, Sachin Kumar, Bodhisattwa Prasad Majumder. (2026). Process-Oriented Evaluation of AI-Assisted Scientific Writing. <i>2026 Conference of Language Modeling (COLM 2026). To appear</i>."
+bibtex: "@inproceedings{dasilva2026processorientedevaluation,\n  title = {{Process-Oriented Evaluation of AI-Assisted Scientific Writing}},\n  author = {Da Silva, Patrick Queiroz and Sanchaita Hazra and Doeun Lee and Sachin Kumar and Bodhisattwa Prasad Majumder},\n  year = {2026},\n  booktitle = {2026 Conference of Language Modeling (COLM 2026)},\n  eprint = {2606.15583},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2606.15583}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2606.15583"}, {"label": "code", "url": "https://github.com/skai-research/process-revision-sci-writing"}, {"label": "data", "url": "https://huggingface.co/datasets/patrickqdasilva/process-revision-sci-write"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf][code][data] Patrick Queiroz Da Silva, Sanchaita Hazra, Doeun Lee, Sachin Kumar, Bodhisattwa Prasad Majumder, \"Process-Oriented Evaluation of AI-Assisted Scientific Writing\", 2026 Conference of Language Modeling (COLM 2026). To appear."

@@ -8,6 +8,7 @@ publication_order: 41
 authors: "Sachin Kumar*, Vidhisha Balachandran*, Lucille Njoo, Antonios Anastasopoulos, Yulia Tsvetkov"
 venue: "2023 Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)"
 citation: "Sachin Kumar*, Vidhisha Balachandran*, Lucille Njoo, Antonios Anastasopoulos, Yulia Tsvetkov. (2023). Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey. <i>2023 Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)</i>."
+bibtex: "@inproceedings{kumar2023languagegenerationmodels,\n  title = {{Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey}},\n  author = {Sachin Kumar and Vidhisha Balachandran and Lucille Njoo and Antonios Anastasopoulos and Yulia Tsvetkov},\n  year = {2023},\n  booktitle = {2023 Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)},\n  eprint = {2210.07700},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2210.07700}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2210.07700"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2023] [pdf] Sachin Kumar*, Vidhisha Balachandran*, Lucille Njoo, Antonios Anastasopoulos, Yulia Tsvetkov, \"Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey\", 2023 Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)."

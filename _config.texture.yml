@@ -1,0 +1,4 @@
+# Optional appearance override. The default in _config.yml remains Lagrange.
+appearance: texture
+texture:
+  style: blue

@@ -8,6 +8,7 @@ publication_order: 42
 authors: "Melanie Sclar, Peter West, Sachin Kumar, Yulia Tsvetkov and Yejin Choi"
 venue: "2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)"
 citation: "Melanie Sclar, Peter West, Sachin Kumar, Yulia Tsvetkov and Yejin Choi. (2022). Reference-Free Sentence Summarization with Sharper Controllability through Symbolic Knowledge Distillation. <i>2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)</i>."
+bibtex: "@inproceedings{sclar2022referencefreesentence,\n  title = {{Reference-Free Sentence Summarization with Sharper Controllability through Symbolic Knowledge Distillation}},\n  author = {Melanie Sclar and Peter West and Sachin Kumar and Yulia Tsvetkov and Yejin Choi},\n  year = {2022},\n  booktitle = {2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},\n  eprint = {2210.13800},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2210.13800}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2210.13800"}, {"label": "code", "url": "https://github.com/msclar/referee"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2022] [pdf] [code] Melanie Sclar, Peter West, Sachin Kumar, Yulia Tsvetkov and Yejin Choi, “Reference-Free Sentence Summarization with Sharper Controllability through Symbolic Knowledge Distillation”, 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)."

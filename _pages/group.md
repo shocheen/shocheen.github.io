@@ -17,11 +17,11 @@ redirect_from:
 
 ## Alumni
 
-<div class="group-grid">
+<ul class="alumni-list">
 {% for member in site.data.group.alumni %}
-  {% include group-member.html member=member %}
+  <li><a href="{{ member.url | escape }}">{{ member.name | escape }}</a> — {{ member.detail | escape }}{% if member.note %}; {{ member.note | escape }}{% endif %}</li>
 {% endfor %}
-</div>
+</ul>
 
 ## Support
 

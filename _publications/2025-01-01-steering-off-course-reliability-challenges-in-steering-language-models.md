@@ -8,6 +8,7 @@ publication_order: 23
 authors: "Patrick Queiroz Da Silva, Hari Sethuraman, Dheeraj Rajagopal, Hannaneh Hajishirzi, Sachin Kumar"
 venue: "2025 Conference of the Association for Computational Linguistics (ACL 2025). Oral (top 8%), Panel (top 0.8%)"
 citation: "Patrick Queiroz Da Silva, Hari Sethuraman, Dheeraj Rajagopal, Hannaneh Hajishirzi, Sachin Kumar. (2025). Steering off Course: Reliability Challenges in Steering Language Models. <i>2025 Conference of the Association for Computational Linguistics (ACL 2025). Oral (top 8%), Panel (top 0.8%)</i>."
+bibtex: "@inproceedings{dasilva2025steeringoffcourse,\n  title = {{Steering off Course: Reliability Challenges in Steering Language Models}},\n  author = {Da Silva, Patrick Queiroz and Hari Sethuraman and Dheeraj Rajagopal and Hannaneh Hajishirzi and Sachin Kumar},\n  year = {2025},\n  booktitle = {2025 Conference of the Association for Computational Linguistics (ACL 2025)},\n  eprint = {2504.04635},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2504.04635}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2504.04635"}, {"label": "code", "url": "https://github.com/patqdasilva/steering-off-course"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2025][pdf][code] Patrick Queiroz Da Silva, Hari Sethuraman, Dheeraj Rajagopal, Hannaneh Hajishirzi, Sachin Kumar, \"Steering off Course: Reliability Challenges in Steering Language Models\", 2025 Conference of the Association for Computational Linguistics (ACL 2025). Oral (top 8%), Panel (top 0.8%)."

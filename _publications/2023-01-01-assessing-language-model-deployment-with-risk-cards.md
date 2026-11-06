@@ -8,6 +8,7 @@ publication_order: 40
 authors: "Leon Derczynski, Hannah Rose Kirk, Vidhisha Balachandran, Sachin Kumar, Yulia Tsvetkov, M. R. Leiser, Saif Mohammad"
 venue: "preprint"
 citation: "Leon Derczynski, Hannah Rose Kirk, Vidhisha Balachandran, Sachin Kumar, Yulia Tsvetkov, M. R. Leiser, Saif Mohammad. (2023). Assessing Language Model Deployment with Risk Cards. <i>preprint</i>."
+bibtex: "@misc{derczynski2023assessinglanguagemodel,\n  title = {{Assessing Language Model Deployment with Risk Cards}},\n  author = {Leon Derczynski and Hannah Rose Kirk and Vidhisha Balachandran and Sachin Kumar and Yulia Tsvetkov and M. R. Leiser and Saif Mohammad},\n  year = {2023},\n  note = {Preprint},\n  eprint = {2303.18190},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2303.18190}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2303.18190"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2023][pdf] Leon Derczynski, Hannah Rose Kirk, Vidhisha Balachandran, Sachin Kumar, Yulia Tsvetkov, M. R. Leiser, Saif Mohammad, \"Assessing Language Model Deployment with Risk Cards\", preprint."

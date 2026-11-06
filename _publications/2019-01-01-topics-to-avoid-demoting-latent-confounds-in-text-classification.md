@@ -8,6 +8,7 @@ publication_order: 50
 authors: "Sachin Kumar, Shuly Wintner, Noah A. Smith, Yulia Tsvetkov"
 venue: "2019 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019"
 citation: "Sachin Kumar, Shuly Wintner, Noah A. Smith, Yulia Tsvetkov. (2019). Topics to Avoid: Demoting Latent Confounds in Text Classification. <i>2019 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019</i>."
+bibtex: "@inproceedings{kumar2019topicstoavoid,\n  title = {{Topics to Avoid: Demoting Latent Confounds in Text Classification}},\n  author = {Sachin Kumar and Shuly Wintner and Noah A. Smith and Yulia Tsvetkov},\n  year = {2019},\n  booktitle = {2019 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019},\n  eprint = {1909.00453},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/1909.00453}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/1909.00453"}, {"label": "code", "url": "https://github.com/Sachin19/adversarial-classify"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2019] [pdf][code] Sachin Kumar, Shuly Wintner, Noah A. Smith, Yulia Tsvetkov, Topics to Avoid: Demoting Latent Confounds in Text Classification, 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019"

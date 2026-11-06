@@ -8,6 +8,7 @@ publication_order: 49
 authors: "Gayatri Bhat, Sachin Kumar, Yulia Tsvetkov"
 venue: "The 3rd Workshop on Neural Generation and Translation (EMNLP) 2019"
 citation: "Gayatri Bhat, Sachin Kumar, Yulia Tsvetkov. (2019). A Margin-based Loss with Synthetic Negative Samples for Continuous-output Machine Translation. <i>The 3rd Workshop on Neural Generation and Translation (EMNLP) 2019</i>."
+bibtex: "@inproceedings{bhat2019amarginbased,\n  title = {{A Margin-based Loss with Synthetic Negative Samples for Continuous-output Machine Translation}},\n  author = {Gayatri Bhat and Sachin Kumar and Yulia Tsvetkov},\n  year = {2019},\n  booktitle = {The 3rd Workshop on Neural Generation and Translation (EMNLP) 2019},\n  url = {https://www.aclweb.org/anthology/D19-5621.pdf}\n}"
 links: [{"label": "pdf", "url": "https://www.aclweb.org/anthology/D19-5621.pdf"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2019] [pdf] Gayatri Bhat, Sachin Kumar, Yulia Tsvetkov, A Margin-based Loss with Synthetic Negative Samples for Continuous-output Machine Translation, The 3rd Workshop on Neural Generation and Translation (EMNLP) 2019"

@@ -8,6 +8,7 @@ publication_order: 9
 authors: "Karan Singh, Michael Yu, Varun Gangal, Zhuofu Tao, Sachin Kumar, Emmy Liu, Steven Y. Feng"
 venue: "preprint"
 citation: "Karan Singh, Michael Yu, Varun Gangal, Zhuofu Tao, Sachin Kumar, Emmy Liu, Steven Y. Feng. (2026). To Memorize or to Retrieve: Scaling Laws for RAG-Considerate Pretraining. <i>preprint</i>."
+bibtex: "@misc{singh2026tomemorizeor,\n  title = {{To Memorize or to Retrieve: Scaling Laws for RAG-Considerate Pretraining}},\n  author = {Karan Singh and Michael Yu and Varun Gangal and Zhuofu Tao and Sachin Kumar and Emmy Liu and Steven Y. Feng},\n  year = {2026},\n  note = {Preprint},\n  eprint = {2604.00715},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2604.00715}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2604.00715"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf] Karan Singh, Michael Yu, Varun Gangal, Zhuofu Tao, Sachin Kumar, Emmy Liu, Steven Y. Feng, \"To Memorize or to Retrieve: Scaling Laws for RAG-Considerate Pretraining\", preprint."

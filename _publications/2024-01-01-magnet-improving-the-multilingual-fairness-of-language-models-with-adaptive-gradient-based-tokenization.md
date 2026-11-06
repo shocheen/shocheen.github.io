@@ -8,6 +8,7 @@ publication_order: 30
 authors: "Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Valentin Hoffman, Tomasz Limisiewicz, Yulia Tsvetkov, Noah A. Smith"
 venue: "Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS) 2024"
 citation: "Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Valentin Hoffman, Tomasz Limisiewicz, Yulia Tsvetkov, Noah A. Smith. (2024). MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization. <i>Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS) 2024</i>."
+bibtex: "@inproceedings{ahia2024magnetimprovingthe,\n  title = {{MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization}},\n  author = {Orevaoghene Ahia and Sachin Kumar and Hila Gonen and Valentin Hoffman and Tomasz Limisiewicz and Yulia Tsvetkov and Noah A. Smith},\n  year = {2024},\n  booktitle = {Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS) 2024},\n  eprint = {2407.08818},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2407.08818}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2407.08818"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2024][pdf][code] Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Valentin Hoffman, Tomasz Limisiewicz, Yulia Tsvetkov, Noah A. Smith, \"MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization\", Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS) 2024."

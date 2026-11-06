@@ -147,6 +147,10 @@ def main():
         record["links"].extend(link for link in reviewed.get("additional_links", []) if link not in record["links"])
         if reviewed:
             record["verification_sources"] = reviewed["sources"]
+    # Keep papers added after migration from primary sources or the owner.
+    imported_ids = {record["id"] for record in records}
+    additions = [record for record in previous if record.get("source_url") != SOURCE and record["id"] not in imported_ids]
+    records = additions + records
     previous_path.write_text(json.dumps(records, ensure_ascii=False, indent=2) + "\n")
     snapshot = ROOT / "migration/google-sites-publications.json"
     snapshot.write_text(json.dumps(source.entries, ensure_ascii=False, indent=2) + "\n")

@@ -8,6 +8,7 @@ publication_order: 43
 authors: "Sachin Kumar, Biswajit Paria, Yulia Tsvetkov"
 venue: "2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)"
 citation: "Sachin Kumar, Biswajit Paria, Yulia Tsvetkov. (2022). Gradient-based Constrained Sampling from Language Models. <i>2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)</i>."
+bibtex: "@inproceedings{kumar2022gradientbasedconstrained,\n  title = {{Gradient-based Constrained Sampling from Language Models}},\n  author = {Sachin Kumar and Biswajit Paria and Yulia Tsvetkov},\n  year = {2022},\n  booktitle = {2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},\n  eprint = {2205.12558},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2205.12558}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2205.12558"}, {"label": "code", "url": "https://github.com/Sachin19/mucoco/tree/sampling2/"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2022] [pdf][code] Sachin Kumar, Biswajit Paria, Yulia Tsvetkov, “Gradient-based Constrained Sampling from Language Models”, 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)."

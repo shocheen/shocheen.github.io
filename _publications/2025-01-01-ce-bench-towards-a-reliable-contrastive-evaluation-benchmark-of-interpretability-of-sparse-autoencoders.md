@@ -8,6 +8,7 @@ publication_order: 17
 authors: "Alex Gulko*, Yusen Peng*, Sachin Kumar"
 venue: "BlackboxNLP at EMNLP 2025. *=equal contribution"
 citation: "Alex Gulko*, Yusen Peng*, Sachin Kumar. (2025). CE-Bench: Towards a Reliable Contrastive Evaluation Benchmark of Interpretability of Sparse Autoencoders. <i>BlackboxNLP at EMNLP 2025. *=equal contribution</i>."
+bibtex: "@inproceedings{gulko2025cebenchtowards,\n  title = {{CE-Bench: Towards a Reliable Contrastive Evaluation Benchmark of Interpretability of Sparse Autoencoders}},\n  author = {Alex Gulko and Yusen Peng and Sachin Kumar},\n  year = {2025},\n  booktitle = {BlackboxNLP at EMNLP 2025},\n  eprint = {2509.00691},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2509.00691}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2509.00691"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2025][pdf] Alex Gulko*, Yusen Peng*, Sachin Kumar, \"CE-Bench: Towards a Reliable Contrastive Evaluation Benchmark of Interpretability of Sparse Autoencoders\", BlackboxNLP at EMNLP 2025. *=equal contribution."

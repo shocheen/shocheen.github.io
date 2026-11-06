@@ -8,6 +8,7 @@ publication_order: 14
 authors: "Emmy Liu, Varun Gangal, Chelsea Zou, Xiaoqi Huang, Michael Yu, Alex Chang, Zhuofu Tao, Sachin Kumar, Steven Y Feng"
 venue: "Internation Conference on Machine Learning (ICML 2026) Position Paper Track"
 citation: "Emmy Liu, Varun Gangal, Chelsea Zou, Xiaoqi Huang, Michael Yu, Alex Chang, Zhuofu Tao, Sachin Kumar, Steven Y Feng. (2026). A Unified Definition of Hallucination, Or: It&#x27;s the World Model, Stupid. <i>Internation Conference on Machine Learning (ICML 2026) Position Paper Track</i>."
+bibtex: "@inproceedings{liu2026aunifieddefinition,\n  title = {{A Unified Definition of Hallucination, Or: It's the World Model, Stupid}},\n  author = {Emmy Liu and Varun Gangal and Chelsea Zou and Xiaoqi Huang and Michael Yu and Alex Chang and Zhuofu Tao and Sachin Kumar and Steven Y Feng},\n  year = {2026},\n  booktitle = {Internation Conference on Machine Learning (ICML 2026) Position Paper Track},\n  eprint = {2512.21577},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2512.21577}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2512.21577"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf] Emmy Liu, Varun Gangal, Chelsea Zou, Xiaoqi Huang, Michael Yu, Alex Chang, Zhuofu Tao, Sachin Kumar, Steven Y Feng, \"A Unified Definition of Hallucination, Or: It's the World Model, Stupid\", Internation Conference on Machine Learning (ICML 2026) Position Paper Track."

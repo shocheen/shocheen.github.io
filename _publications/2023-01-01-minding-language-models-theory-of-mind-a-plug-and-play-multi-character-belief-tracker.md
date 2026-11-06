@@ -8,6 +8,7 @@ publication_order: 37
 authors: "Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi and Yulia Tsvetkov"
 venue: "2023 Conference of the Association for Computational Linguistics (ACL 2023). Outstanding Paper Award"
 citation: "Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi and Yulia Tsvetkov. (2023). Minding Language Models’ Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker. <i>2023 Conference of the Association for Computational Linguistics (ACL 2023). Outstanding Paper Award</i>."
+bibtex: "@inproceedings{sclar2023mindinglanguagemodels,\n  title = {{Minding Language Models’ Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker}},\n  author = {Melanie Sclar and Sachin Kumar and Peter West and Alane Suhr and Yejin Choi and Yulia Tsvetkov},\n  year = {2023},\n  booktitle = {2023 Conference of the Association for Computational Linguistics (ACL 2023)},\n  eprint = {2306.00924},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2306.00924}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2306.00924"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2023][pdf][code] Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi and Yulia Tsvetkov, “Minding Language Models’ Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker”, 2023 Conference of the Association for Computational Linguistics (ACL 2023). Outstanding Paper Award"

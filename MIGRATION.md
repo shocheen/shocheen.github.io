@@ -29,6 +29,13 @@ fields. Resource labels retain their meaning: code is never stored as slides.
 The generator writes the individual `_publications` documents. Their URLs remain
 stable; six former malformed author-name documents redirect to the correct papers.
 
+The generator also creates BibTeX from each paper's metadata. Conference years
+come from the venue when the homepage's year grouping differs. Equal-contribution
+markers and award/presentation notes stay in the displayed citation, while the
+BibTeX uses clean author and venue fields. An optional `bibtex` field can retain
+an official entry verbatim. Each paper page shows its BibTeX; the publications
+archive provides a disclosure and copy button for every entry.
+
 The original importer and generator entry points now use the new workflow.
 The old TSV/notebooks are historical and are no longer the source of truth.
 
@@ -42,8 +49,20 @@ python3 scripts/import_google_sites.py /path/to/research.html
 python3 scripts/generate_publications.py
 ```
 
-Normal future edits only require the generator. Re-importing intentionally replaces
-the data with the Google Sites content plus the reviewed overrides.
+Normal future edits only require the generator. Re-importing replaces the Google
+Sites entries with the source content plus reviewed overrides, and retains papers
+added separately from other sources.
+
+New papers can use the primary paper page for `source_url` and retain the supplied
+citation in `source_citation`. A lower `order` value appears earlier; EliteReplay,
+added after migration, uses `-1` so the original 56 records remain unchanged.
+
+## Selected research
+
+`_data/selected_research.json` chooses the homepage papers and figure assets.
+Titles, venues, author names, and resource links are read from the canonical
+publication records. Figure-source links retain the source attribution. Changing
+this selection does not change the full publications archive.
 
 ## Reviewed corrections and remaining details
 
@@ -58,8 +77,8 @@ the data with the Google Sites content plus the reviewed overrides.
   first listed in 2025 have 2026 venues. These are not silently re-dated.
 - Machine Translation with Continuous Outputs (2018 workshop) has no resource URL
   on the source site. Its citation is retained without an invented link.
-- Yi Yu's Google Sites portrait could not be copied; the group page uses initials.
-  Muge and Yusen's portraits were copied from their linked public homepages.
+- Alumni appear as a text list. Current students retain their portraits; Muge
+  and Yusen's portraits were copied from their linked public homepages.
 - The existing July 2025 CV remains linked. Replace it when a newer CV is available.
 
 ## Publication

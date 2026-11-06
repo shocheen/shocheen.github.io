@@ -1,0 +1,51 @@
+[
+  {
+    "publication_id": "2026-01-01-elitereplay-preserving-diverse-solutions-in-rl-post-training-via-quality-diversity-search",
+    "image": "/images/selected-research/elite-replay.svg",
+    "image_alt": "Overview of EliteReplay’s quality-diversity archive and replay training.",
+    "figure_source": "https://arxiv.org/html/2610.22290v1#S1.F2",
+    "figure_label": "Figure 2"
+  },
+  {
+    "publication_id": "2026-01-01-tokenization-a-survey-for-modern-nlp",
+    "image": "/images/selected-research/tokenization.png",
+    "image_alt": "Tokenization pipeline from raw text through tokens to embeddings.",
+    "figure_source": "https://www.alphaxiv.org/abs/2609.tokenization-survey-modern-nlp.pdf#page=2",
+    "figure_label": "Figure 1.1"
+  },
+  {
+    "publication_id": "2026-01-01-sounds-like-youre-not-from-around-here-accent-bias-in-audio-language-models",
+    "image": "/images/selected-research/accent-bias.png",
+    "image_alt": "Overview of accent groups, application domains, and model ratings.",
+    "figure_source": "https://aclanthology.org/2026.emnlp-main.1612.pdf#page=1",
+    "figure_label": "Figure 1"
+  },
+  {
+    "publication_id": "2026-01-01-halluworld-a-controlled-benchmark-for-hallucination-via-reference-world-models",
+    "image": "/images/selected-research/halluworld.webp",
+    "image_alt": "HalluWorld gridworld, chess, and terminal examples.",
+    "figure_source": "https://arxiv.org/html/2605.19341v1#S1.F1",
+    "figure_label": "Figure 1"
+  },
+  {
+    "publication_id": "2026-01-01-one-form-to-transfer-them-all-pretraining-multilingual-language-models-beyond-native-orthography",
+    "image": "/images/selected-research/one-form.svg",
+    "image_alt": "Examples comparing original scripts, IPA, and romanized text.",
+    "figure_source": "https://arxiv.org/html/2608.25904v3#S1.F1",
+    "figure_label": "Figure 1"
+  },
+  {
+    "publication_id": "2026-01-01-dynamic-multi-byte-prediction-with-hierarchical-language-models",
+    "image": "/images/selected-research/multi-byte.png",
+    "image_alt": "Multi-byte prediction architecture with latent segments and decoder heads.",
+    "figure_source": "https://arxiv.org/html/2608.15454v2#S1.F1",
+    "figure_label": "Figure 1"
+  },
+  {
+    "publication_id": "2026-01-01-process-oriented-evaluation-of-ai-assisted-scientific-writing",
+    "image": "/images/selected-research/process-oriented.svg",
+    "image_alt": "Editing sequences and linguistic changes in scientific writing.",
+    "figure_source": "https://arxiv.org/html/2606.15583v2#S1.F1",
+    "figure_label": "Figure 1"
+  }
+]

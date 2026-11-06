@@ -1,0 +1,25 @@
+{% assign profile = site.author %}
+{% assign cv_link = site.data.navigation.main | where: 'title', 'Vitae' | first %}
+<section class="bio-profile" aria-label="Profile">
+  {% if profile.avatar contains '://' %}
+  <img class="bio-profile-photo" src="{{ profile.avatar }}" alt="{{ profile.name | escape }}" width="200" height="200">
+  {% else %}
+  <img class="bio-profile-photo" src="{{ '/images/' | append: profile.avatar | relative_url }}" alt="{{ profile.name | escape }}" width="200" height="200">
+  {% endif %}
+  <div class="bio-profile-info">
+    <h1 class="bio-profile-name">{{ profile.name }}</h1>
+    <p class="bio-profile-role">{{ profile.bio }}{% if profile.pronouns %}<span class="bio-profile-pronouns"> · {{ profile.pronouns }}</span>{% endif %}</p>
+    {% if profile.employer %}<p class="bio-profile-affiliation">{{ profile.employer }}</p>{% endif %}
+    {% if profile.location %}<p class="bio-profile-location">{{ profile.location }}</p>{% endif %}
+    {% if profile.email %}<a class="bio-profile-email" href="mailto:{{ profile.email | escape }}">{{ profile.email | escape }}</a>{% endif %}
+    <nav class="bio-profile-socials" aria-label="Profile links">
+      {% if profile.googlescholar %}<a href="{{ profile.googlescholar | escape }}"><i class="ai ai-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a>{% endif %}
+      {% if cv_link %}<a href="{{ cv_link.url | relative_url }}"><i class="fas fa-file-lines" aria-hidden="true"></i><span>CV</span></a>{% endif %}
+      {% if profile.github %}<a href="https://github.com/{{ profile.github }}"><i class="fab fa-github" aria-hidden="true"></i><span>Github</span></a>{% endif %}
+      {% if profile.alphaxiv %}<a href="{{ profile.alphaxiv | escape }}"><i class="fas fa-book" aria-hidden="true"></i><span>alphaXiv</span></a>{% endif %}
+      {% if profile.bluesky %}<a href="https://bsky.app/profile/{{ profile.bluesky }}"><i class="fab fa-bluesky" aria-hidden="true"></i><span>Bluesky</span></a>{% endif %}
+      {% if profile.linkedin %}<a href="https://www.linkedin.com/in/{{ profile.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>{% endif %}
+      {% if profile.twitter %}<a href="https://twitter.com/{{ profile.twitter }}" title="X (formerly Twitter)"><i class="fab fa-x-twitter" aria-hidden="true"></i><span>X</span></a>{% endif %}
+    </nav>
+  </div>
+</section>

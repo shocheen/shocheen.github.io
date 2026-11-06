@@ -8,6 +8,7 @@ publication_order: 39
 authors: "Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov"
 venue: "2023 Conference of the Association for Computational Linguistics (ACL 2023)"
 citation: "Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov. (2023). SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control. <i>2023 Conference of the Association for Computational Linguistics (ACL 2023)</i>."
+bibtex: "@inproceedings{han2023ssdlmsemi,\n  title = {{SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control}},\n  author = {Xiaochuang Han and Sachin Kumar and Yulia Tsvetkov},\n  year = {2023},\n  booktitle = {2023 Conference of the Association for Computational Linguistics (ACL 2023)},\n  eprint = {2210.17432},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2210.17432}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/abs/2210.17432"}, {"label": "code", "url": "https://github.com/xhan77/ssd-lm"}, {"label": "demo", "url": "https://colab.research.google.com/drive/1vNKqvzzJQp3k89QPuns5ibsq-VNC9wGN?usp=sharing"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2023] [pdf] [code][demo] Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov, \"SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control\", 2023 Conference of the Association for Computational Linguistics (ACL 2023)."

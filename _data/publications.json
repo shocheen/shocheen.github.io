@@ -1,5 +1,30 @@
 [
   {
+    "id": "2026-01-01-elitereplay-preserving-diverse-solutions-in-rl-post-training-via-quality-diversity-search",
+    "year": 2026,
+    "order": -1,
+    "title": "EliteReplay: Preserving Diverse Solutions in RL Post-Training via Quality-Diversity Search",
+    "authors": "Hanane Nour Moussa, Doeun Lee, Sachin Kumar",
+    "venue": "preprint",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2610.22290"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/skai-research/EliteReplay"
+      }
+    ],
+    "source_url": "https://arxiv.org/abs/2610.22290",
+    "source_citation": "[2026][pdf][code] Hanane Nour Moussa, Doeun Lee, Sachin Kumar, \"EliteReplay: Preserving Diverse Solutions in RL Post-Training via Quality-Diversity Search\", preprint.",
+    "redirect_from": [],
+    "verification_sources": [
+      "https://arxiv.org/abs/2610.22290",
+      "https://github.com/skai-research/EliteReplay"
+    ]
+  },
+  {
     "id": "2026-01-01-tokenization-a-survey-for-modern-nlp",
     "year": 2026,
     "order": 0,

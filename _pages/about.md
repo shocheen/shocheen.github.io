@@ -29,3 +29,5 @@ I was a postdoctoral researcher at the Allen Institute for AI (Ai2) advised by [
 ## News
 
 {% include news.html %}
+
+{% include selected-research.html %}

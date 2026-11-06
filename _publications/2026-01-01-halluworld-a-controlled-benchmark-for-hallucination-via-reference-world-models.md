@@ -8,6 +8,7 @@ publication_order: 1
 authors: "Emmy Liu, Varun Gangal, Michael Yu, Zhuofu Tao, Karan Singh, Sachin Kumar, Steven Y. Feng"
 venue: "Fortieth Conference on Neural Information Processing Systems (NeurIPS): Datasets and Benchmarks Track. To Appear"
 citation: "Emmy Liu, Varun Gangal, Michael Yu, Zhuofu Tao, Karan Singh, Sachin Kumar, Steven Y. Feng. (2026). HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models. <i>Fortieth Conference on Neural Information Processing Systems (NeurIPS): Datasets and Benchmarks Track. To Appear</i>."
+bibtex: "@inproceedings{liu2026halluworldacontrolled,\n  title = {{HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models}},\n  author = {Emmy Liu and Varun Gangal and Michael Yu and Zhuofu Tao and Karan Singh and Sachin Kumar and Steven Y. Feng},\n  year = {2026},\n  booktitle = {Fortieth Conference on Neural Information Processing Systems (NeurIPS): Datasets and Benchmarks Track},\n  eprint = {2605.19341},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2605.19341}\n}"
 links: [{"label": "pdf", "url": "https://arxiv.org/html/2605.19341v1"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf] Emmy Liu, Varun Gangal, Michael Yu, Zhuofu Tao, Karan Singh, Sachin Kumar, Steven Y. Feng, \"HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models\", Fortieth Conference on Neural Information Processing Systems (NeurIPS): Datasets and Benchmarks Track. To Appear."

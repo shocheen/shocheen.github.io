@@ -8,6 +8,7 @@ publication_order: 11
 authors: "Min Jang, Orevaoghene Ahia, Nazif Tamer, Sachin Kumar, Yulia Tsvetkov, Noah A. Smith"
 venue: "preprint"
 citation: "Min Jang, Orevaoghene Ahia, Nazif Tamer, Sachin Kumar, Yulia Tsvetkov, Noah A. Smith. (2026). BASS: Benchmarking Audio LMs for Musical Structure and Semantic Reasoning. <i>preprint</i>."
+bibtex: "@misc{jang2026bassbenchmarkingaudio,\n  title = {{BASS: Benchmarking Audio LMs for Musical Structure and Semantic Reasoning}},\n  author = {Min Jang and Orevaoghene Ahia and Nazif Tamer and Sachin Kumar and Yulia Tsvetkov and Noah A. Smith},\n  year = {2026},\n  note = {Preprint},\n  eprint = {2602.04085},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2602.04085}\n}"
 links: [{"label": "pdf", "url": "https://www.arxiv.org/abs/2602.04085"}, {"label": "website", "url": "https://minjang10.github.io/bass-website/"}, {"label": "code", "url": "https://github.com/minjang10/bass_music_benchmark"}, {"label": "data", "url": "https://huggingface.co/datasets/oreva/bass_music_benchmark"}]
 source_url: "https://sites.google.com/view/sachinkumar/research"
 source_citation: "[2026][pdf][website][code][data] Min Jang, Orevaoghene Ahia, Nazif Tamer, Sachin Kumar, Yulia Tsvetkov, Noah A. Smith, \"BASS: Benchmarking Audio LMs for Musical Structure and Semantic Reasoning.\" preprint."

@@ -13,6 +13,31 @@ layout: compress
 
   <body>
 
+    {% if site.appearance == 'texture' %}
+    <a class="skip-link" href="#main">Skip to content</a>
+    {% include texture/header.html %}
+    <div class="container texture-content">
+      {{ content }}
+      <footer class="texture-footer">
+        {% include footer/custom.html %}
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Powered by <a href="https://jekyllrb.com/">Jekyll</a> &amp; <a href="https://github.com/samarsault/texture">Texture</a>.</p>
+      </footer>
+    </div>
+    {% include analytics.html %}
+    {% elsif site.appearance == 'lagrange' %}
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="container">
+      {% include lagrange/header.html %}
+      <div class="content-container">
+        {{ content }}
+      </div>
+      <footer class="footer">
+        {% include footer/custom.html %}
+        <div class="footer-description">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Powered by <a href="https://jekyllrb.com/">Jekyll</a> &amp; <a href="https://github.com/LeNPaul/Lagrange">Lagrange</a>.</div>
+      </footer>
+    </div>
+    {% include analytics.html %}
+    {% else %}
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -26,6 +51,7 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+    {% endif %}
 
   </body>
 </html>
